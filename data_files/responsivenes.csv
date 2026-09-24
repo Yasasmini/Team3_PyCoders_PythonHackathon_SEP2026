@@ -1,4 +1,4 @@
-patient_id,eye_opening,verbal_response,movement,consciousness,gcs
+inpatient_number,eye_opening,verbal_response,movement,consciousness,gcs
 857781,4,5,6,Clear,15
 743087,4,5,6,Clear,15
 866418,4,5,6,Clear,15
