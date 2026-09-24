@@ -1,0 +1,2009 @@
+patient_id,gender,weight,height,bmi,occupation,age_category,measurement,bmi_original
+827040,Female,50.0,1.45,23.78,Unknown,69-79,False,23.78
+857781,Male,50.0,1.64,18.59,Urban Resident,69-79,False,18.59
+743087,Female,51.0,1.63,19.2,Urban Resident,69-79,False,19.2
+866418,Male,70.0,1.7,24.22,Farmer,59-69,False,24.22
+775928,Male,65.0,1.7,22.49,Urban Resident,69-79,False,22.49
+810128,Female,76.0,1.55,31.63,Urban Resident,69-79,False,31.63
+823318,Female,45.0,1.56,18.49,Urban Resident,79-89,False,18.49
+844094,Male,60.0,1.65,22.04,Urban Resident,79-89,False,22.04
+787530,Female,50.0,1.55,20.81,Urban Resident,69-79,False,20.81
+795420,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+829801,Female,56.0,1.56,23.01,Urban Resident,69-79,False,23.01
+807741,Female,35.0,1.55,,Worker,49-59,False,14.57
+748109,Female,45.0,1.56,18.49,Urban Resident,89-110,False,18.49
+802296,Male,70.0,1.72,23.66,Urban Resident,79-89,False,23.66
+744167,Male,55.0,1.6,21.48,Farmer,49-59,False,21.48
+780534,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+852562,Female,40.0,1.53,17.09,Urban Resident,89-110,False,17.09
+759947,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+825016,Female,35.0,1.42,17.36,Urban Resident,79-89,False,17.36
+820101,Female,53.0,1.58,21.23,Urban Resident,59-69,False,21.23
+729522,Male,60.0,1.7,20.76,Urban Resident,49-59,False,20.76
+764082,Female,44.0,1.56,18.08,Urban Resident,69-79,False,18.08
+765801,Female,55.0,1.58,22.03,Urban Resident,69-79,False,22.03
+868777,Female,35.0,1.4,17.86,Urban Resident,79-89,False,17.86
+821261,Female,55.0,1.58,22.03,Urban Resident,59-69,False,22.03
+814869,Male,62.0,1.68,21.97,Urban Resident,59-69,False,21.97
+818671,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+846186,Female,42.5,1.5,18.89,Urban Resident,59-69,False,18.89
+818948,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+764380,Male,56.0,1.68,19.84,Urban Resident,69-79,False,19.84
+861240,Male,57.5,1.6,22.46,Urban Resident,79-89,False,22.46
+743467,Female,33.0,1.45,15.7,Urban Resident,79-89,False,15.7
+814480,Female,60.0,1.6,23.44,Urban Resident,89-110,False,23.44
+783621,Female,46.0,1.5,20.44,Urban Resident,79-89,False,20.44
+766383,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+848044,Male,55.0,1.66,19.96,Urban Resident,69-79,False,19.96
+821472,Female,50.0,1.5,22.22,Urban Resident,89-110,False,22.22
+866373,Female,41.0,1.5,18.22,Urban Resident,79-89,False,18.22
+793147,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+739615,Male,45.0,1.6,17.58,Farmer,59-69,False,17.58
+817939,Female,30.0,1.49,,Urban Resident,79-89,False,13.51
+760822,Female,43.0,1.48,19.63,Urban Resident,79-89,False,19.63
+831189,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+837384,Male,78.0,1.6,30.47,Urban Resident,59-69,False,30.47
+798240,Male,65.0,1.65,23.88,Farmer,69-79,False,23.88
+857297,Male,62.0,1.65,22.77,Urban Resident,59-69,False,22.77
+727376,Female,60.0,1.52,25.97,Urban Resident,49-59,False,25.97
+865365,Female,52.0,1.5,23.11,Farmer,79-89,False,23.11
+859976,Male,45.0,1.65,16.53,Urban Resident,69-79,False,16.53
+806646,Female,48.0,1.5,21.33,Urban Resident,79-89,False,21.33
+862491,Female,78.0,1.6,30.47,Farmer,79-89,False,30.47
+858732,Female,47.0,1.5,20.89,Urban Resident,79-89,False,20.89
+870127,Female,34.0,1.57,,Urban Resident,59-69,False,13.79
+763014,Male,45.0,1.6,17.58,Urban Resident,79-89,False,17.58
+814592,Female,54.5,1.6,21.29,Urban Resident,69-79,False,21.29
+742279,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+735209,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+736105,Female,45.0,1.6,17.58,Others,79-89,False,17.58
+726990,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+794078,Male,65.0,1.65,23.88,Urban Resident,79-89,False,23.88
+814928,Female,55.0,1.54,23.19,Urban Resident,69-79,False,23.19
+793939,Male,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+864312,Female,45.0,1.52,19.48,Urban Resident,69-79,False,19.48
+864678,Male,55.0,1.7,19.03,Urban Resident,79-89,False,19.03
+859541,Female,42.0,1.48,19.17,Urban Resident,79-89,False,19.17
+815319,Female,48.0,1.52,20.78,Urban Resident,79-89,False,20.78
+738529,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+796227,Male,70.0,1.6,27.34,Urban Resident,69-79,False,27.34
+865930,Female,49.0,1.5,21.78,Urban Resident,89-110,False,21.78
+779834,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+759361,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+804640,Female,65.0,1.6,25.39,Urban Resident,69-79,False,25.39
+778545,Female,45.0,1.43,22.01,Urban Resident,69-79,False,22.01
+821564,Male,44.0,1.56,18.08,Urban Resident,79-89,False,18.08
+833497,Male,45.0,1.57,18.26,Urban Resident,29-39,False,18.26
+733308,Female,43.0,1.54,18.13,Urban Resident,69-79,False,18.13
+844138,Female,41.5,1.6,16.21,Urban Resident,69-79,False,16.21
+736369,Female,55.0,1.65,20.2,Urban Resident,59-69,False,20.2
+793801,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+866371,Female,36.0,1.45,17.12,Urban Resident,69-79,False,17.12
+746924,Male,65.0,1.72,21.97,Urban Resident,79-89,False,21.97
+746782,Female,50.0,1.5,22.22,Farmer,59-69,False,22.22
+743908,Female,60.0,1.58,24.03,Others,69-79,False,24.03
+791627,Male,72.0,1.66,26.13,Urban Resident,79-89,False,26.13
+775978,Male,68.0,1.6,26.56,Urban Resident,69-79,False,26.56
+782224,Female,42.0,1.46,19.7,Urban Resident,79-89,False,19.7
+793425,Male,50.0,1.6,19.53,Urban Resident,69-79,False,19.53
+791903,Female,53.0,1.52,22.94,Urban Resident,49-59,False,22.94
+817300,Male,75.0,1.68,26.57,Urban Resident,89-110,False,26.57
+863747,Male,65.0,1.51,28.51,Urban Resident,79-89,False,28.51
+773090,Male,60.0,1.77,19.15,Urban Resident,79-89,False,19.15
+755700,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+731805,Female,47.0,1.55,19.56,Farmer,39-49,False,19.56
+788057,Female,40.0,1.45,19.02,Urban Resident,69-79,False,19.02
+850730,Male,73.0,1.74,24.11,Urban Resident,69-79,False,24.11
+777721,Male,55.0,1.68,19.49,Urban Resident,79-89,False,19.49
+836612,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+741000,Female,45.0,1.55,18.73,Farmer,59-69,False,18.73
+751159,Female,62.0,1.54,26.14,Farmer,59-69,False,26.14
+842939,Male,90.0,1.64,33.46,Urban Resident,79-89,False,33.46
+837785,Female,50.0,1.58,20.03,Urban Resident,89-110,False,20.03
+813168,Female,38.0,1.45,18.07,Urban Resident,69-79,False,18.07
+817948,Female,41.0,1.5,18.22,Urban Resident,69-79,False,18.22
+797752,Male,64.0,1.58,25.64,Urban Resident,79-89,False,25.64
+828763,Male,61.0,1.65,22.41,Urban Resident,79-89,False,22.41
+747856,Female,40.0,1.45,19.02,Others,79-89,False,19.02
+866380,Male,73.0,1.75,23.84,Urban Resident,69-79,False,23.84
+803171,Male,60.0,1.7,20.76,Farmer,79-89,False,20.76
+749183,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+796520,Male,65.0,1.7,22.49,Urban Resident,59-69,False,22.49
+863085,Male,50.0,1.7,17.3,Farmer,69-79,False,17.3
+734027,Female,45.0,1.45,21.4,Urban Resident,69-79,False,21.4
+822474,Male,45.0,1.62,17.15,Urban Resident,79-89,False,17.15
+789207,Male,50.0,1.6,19.53,Urban Resident,69-79,False,19.53
+841390,Female,45.0,1.55,18.73,Others,69-79,False,18.73
+860301,Female,48.0,1.53,20.5,Urban Resident,69-79,False,20.5
+784134,Female,54.0,1.45,25.68,Urban Resident,89-110,False,25.68
+853810,Male,64.0,1.65,23.51,Urban Resident,59-69,False,23.51
+834556,Female,44.0,1.52,19.04,Urban Resident,79-89,False,19.04
+754799,Male,60.0,1.8,18.52,Urban Resident,59-69,False,18.52
+857432,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+800848,Female,55.0,1.52,23.81,Farmer,59-69,False,23.81
+863086,Female,42.0,1.48,19.17,Urban Resident,69-79,False,19.17
+824845,Female,53.0,1.55,22.06,Urban Resident,69-79,False,22.06
+754196,Female,45.0,1.45,21.4,Urban Resident,89-110,False,21.4
+828662,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+804100,Female,45.0,1.52,19.48,Urban Resident,79-89,False,19.48
+815585,Female,43.0,1.46,20.17,Urban Resident,79-89,False,20.17
+799827,Male,73.0,1.7,25.26,Urban Resident,79-89,False,25.26
+735827,Male,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+757269,Male,65.0,1.7,22.49,Urban Resident,79-89,False,22.49
+729949,Male,48.0,1.58,19.23,Urban Resident,79-89,False,19.23
+787061,Female,54.0,1.45,25.68,Urban Resident,49-59,False,25.68
+730551,Male,63.0,1.65,23.14,Urban Resident,59-69,False,23.14
+854856,Male,45.0,1.58,18.03,Urban Resident,69-79,False,18.03
+747852,Female,49.0,1.5,21.78,Others,79-89,False,21.78
+780824,Female,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+860037,Male,74.0,1.69,25.91,Urban Resident,59-69,False,25.91
+866587,Female,45.0,1.5,20.0,Others,69-79,False,20.0
+790695,Male,80.0,1.6,31.25,Urban Resident,39-49,False,31.25
+744861,Male,84.0,1.68,29.76,Urban Resident,89-110,False,29.76
+860325,Female,50.0,1.45,23.78,Urban Resident,69-79,False,23.78
+759442,Female,35.0,1.45,16.65,Urban Resident,59-69,False,16.65
+808358,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+866826,Male,55.0,1.6,21.48,Farmer,69-79,False,21.48
+863869,Male,48.0,1.5,21.33,Farmer,69-79,False,21.33
+787629,Male,63.0,1.56,25.89,Urban Resident,69-79,False,25.89
+760181,Female,55.0,1.5,24.44,Others,49-59,False,24.44
+863531,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+808020,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+799246,Male,56.0,1.64,20.82,Urban Resident,79-89,False,20.82
+730183,Female,43.0,1.51,18.86,Urban Resident,69-79,False,18.86
+791736,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+791071,Female,50.0,1.58,20.03,Urban Resident,79-89,False,20.03
+858901,Female,40.0,1.48,18.26,Urban Resident,79-89,False,18.26
+758048,Female,45.0,1.48,20.54,Urban Resident,69-79,False,20.54
+852624,Male,65.0,1.68,23.03,Urban Resident,59-69,False,23.03
+830545,Female,39.0,1.53,16.66,Urban Resident,79-89,False,16.66
+822745,Female,57.0,1.55,23.73,Urban Resident,59-69,False,23.73
+770254,Female,44.0,1.5,19.56,Urban Resident,79-89,False,19.56
+739419,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+760189,Male,70.0,1.75,22.86,Urban Resident,59-69,False,22.86
+738683,Male,58.0,1.6,22.66,Urban Resident,79-89,False,22.66
+747597,Male,56.0,1.7,19.38,Others,69-79,False,19.38
+757630,Female,50.0,1.54,21.08,Farmer,69-79,False,21.08
+804572,Male,55.0,1.7,19.03,Urban Resident,59-69,False,19.03
+757020,Female,40.0,1.45,19.02,Urban Resident,79-89,False,19.02
+861557,Female,60.0,1.52,25.97,Urban Resident,79-89,False,25.97
+759931,Female,75.0,1.5,33.33,Urban Resident,79-89,False,33.33
+810758,Female,55.0,1.52,23.81,Urban Resident,69-79,False,23.81
+778525,Female,75.0,1.6,29.3,Urban Resident,79-89,False,29.3
+749435,Female,50.0,1.55,20.81,Urban Resident,49-59,False,20.81
+809784,Female,70.0,1.55,29.14,Urban Resident,79-89,False,29.14
+791219,Male,60.0,1.65,22.04,Urban Resident,79-89,False,22.04
+803586,Male,60.0,1.59,23.73,Worker,69-79,False,23.73
+736734,Male,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+817246,Male,58.0,1.56,23.83,Urban Resident,59-69,False,23.83
+803338,Female,60.0,1.56,24.65,Urban Resident,59-69,False,24.65
+786199,Male,54.0,1.64,20.08,Urban Resident,79-89,False,20.08
+829953,Female,46.0,1.48,21.0,Urban Resident,79-89,False,21.0
+796930,Female,56.0,1.6,21.87,Urban Resident,59-69,False,21.88
+844447,Female,40.0,1.68,,Others,79-89,False,14.17
+791588,Female,61.0,1.5,27.11,Urban Resident,79-89,False,27.11
+786403,Male,70.0,1.68,24.8,Urban Resident,69-79,False,24.8
+775922,Female,73.0,1.57,29.62,Urban Resident,79-89,False,29.62
+864097,Male,46.0,1.55,19.15,Urban Resident,69-79,False,19.15
+830110,Male,72.0,1.66,26.13,Urban Resident,49-59,False,26.13
+770442,Female,65.0,1.59,25.71,Urban Resident,69-79,False,25.71
+742223,Male,71.0,1.78,22.41,Urban Resident,49-59,False,22.41
+843550,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+848849,Female,41.0,1.53,17.51,Urban Resident,69-79,False,17.51
+726342,Female,58.0,1.5,25.78,Urban Resident,69-79,False,25.78
+726695,Male,46.0,1.6,17.97,Farmer,59-69,False,17.97
+764366,Male,50.0,1.66,18.14,Urban Resident,79-89,False,18.14
+765771,Female,57.0,1.7,19.72,Urban Resident,39-49,False,19.72
+865824,Female,35.0,1.5,15.56,Urban Resident,89-110,False,15.56
+780251,Female,55.0,1.51,24.12,Urban Resident,69-79,False,24.12
+795001,Male,62.0,1.65,22.77,Urban Resident,59-69,False,22.77
+743061,Female,50.0,1.58,20.03,Farmer,79-89,False,20.03
+729509,Male,50.0,1.65,18.37,Urban Resident,89-110,False,18.37
+813738,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+801411,Male,63.0,1.55,26.22,Urban Resident,59-69,False,26.22
+736771,Male,60.0,1.7,20.76,Urban Resident,69-79,False,20.76
+780942,Female,56.0,1.55,23.31,Urban Resident,79-89,False,23.31
+805096,Female,55.0,1.53,23.5,Urban Resident,59-69,False,23.5
+863400,Male,70.0,1.65,25.71,Urban Resident,49-59,False,25.71
+850346,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+762987,Male,55.0,1.6,21.48,Urban Resident,59-69,False,21.48
+789269,Female,56.0,1.52,24.24,Urban Resident,79-89,False,24.24
+777006,Female,40.0,1.46,18.77,Urban Resident,79-89,False,18.77
+809217,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+728236,Female,48.0,1.55,19.98,Farmer,39-49,False,19.98
+821841,Male,72.0,1.6,28.12,Urban Resident,59-69,False,28.12
+800343,Male,58.0,1.7,20.07,Urban Resident,69-79,False,20.07
+799322,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+821985,Male,54.0,1.59,21.36,Farmer,69-79,False,21.36
+740596,Female,40.0,1.55,16.65,Farmer,89-110,False,16.65
+834535,Female,35.0,1.58,,Urban Resident,59-69,False,14.02
+835675,Male,52.0,1.54,21.93,Urban Resident,59-69,False,21.93
+791069,Female,40.0,1.4,20.41,Urban Resident,59-69,False,20.41
+863951,Female,48.0,1.48,21.91,Urban Resident,69-79,False,21.91
+802669,Male,57.0,1.64,21.19,Urban Resident,89-110,False,21.19
+826731,Male,60.0,1.68,21.26,Urban Resident,69-79,False,21.26
+835944,Female,41.0,1.5,18.22,Farmer,89-110,False,18.22
+832868,Male,70.0,1.63,26.35,Urban Resident,59-69,False,26.35
+778259,Male,55.0,1.59,21.76,Urban Resident,59-69,False,21.76
+831437,Female,52.0,1.54,21.93,Farmer,79-89,False,21.93
+728768,Male,56.0,1.7,19.38,Farmer,69-79,False,19.38
+798947,Female,65.0,1.58,26.04,Urban Resident,59-69,False,26.04
+745252,Female,40.0,1.5,17.78,Farmer,69-79,False,17.78
+745505,Male,52.0,1.43,25.43,Urban Resident,79-89,False,25.43
+777291,Female,55.0,1.5,24.44,Urban Resident,69-79,False,24.44
+802377,Female,55.0,1.5,24.44,Urban Resident,79-89,False,24.44
+821057,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+738666,Male,43.0,1.6,16.8,Farmer,69-79,False,16.8
+801331,Male,60.0,1.65,22.04,Urban Resident,69-79,False,22.04
+775717,Female,33.0,1.43,16.14,Urban Resident,79-89,False,16.14
+805803,Male,87.0,1.7,30.1,Officer,49-59,False,30.1
+865526,Male,42.5,1.6,16.6,Urban Resident,69-79,False,16.6
+785494,Male,85.0,1.68,30.12,Urban Resident,79-89,False,30.12
+775532,Female,65.0,1.56,26.71,Urban Resident,69-79,False,26.71
+753061,Female,56.0,1.55,23.31,Urban Resident,69-79,False,23.31
+805829,Female,41.0,1.52,17.75,Urban Resident,79-89,False,17.75
+865548,Female,75.0,1.6,29.3,Urban Resident,59-69,False,29.3
+855972,Male,62.0,1.65,22.77,Urban Resident,89-110,False,22.77
+831570,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+863648,Female,65.0,1.5,28.89,Urban Resident,79-89,False,28.89
+814224,Male,40.0,1.4,20.41,Urban Resident,79-89,False,20.41
+785451,Male,70.0,1.75,22.86,Urban Resident,39-49,False,22.86
+790372,Female,45.0,1.46,21.11,Urban Resident,79-89,False,21.11
+869954,Female,48.5,1.58,19.43,Urban Resident,49-59,False,19.43
+771843,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+801364,Male,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+795154,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+748428,Male,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+785252,Female,49.0,1.48,22.37,Urban Resident,69-79,False,22.37
+800350,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+807080,Female,55.0,1.45,26.16,Urban Resident,79-89,False,26.16
+808801,Female,45.0,1.5,20.0,Urban Resident,29-39,False,20.0
+870646,Female,77.0,1.68,27.28,Urban Resident,69-79,False,27.28
+826184,Female,41.0,1.5,18.22,Urban Resident,79-89,False,18.22
+820582,Male,49.5,1.5,22.0,Urban Resident,59-69,False,22.0
+823432,Male,65.0,1.6,25.39,Urban Resident,89-110,False,25.39
+766605,Male,46.0,1.55,19.15,Urban Resident,79-89,False,19.15
+778629,Female,48.5,1.45,23.07,Urban Resident,79-89,False,23.07
+810425,Male,47.0,1.55,19.56,Urban Resident,69-79,False,19.56
+796716,Female,53.0,1.6,20.7,Others,69-79,False,20.7
+745311,Female,50.0,1.7,17.3,Urban Resident,49-59,False,17.3
+802512,Male,60.0,1.48,27.39,Farmer,59-69,False,27.39
+784132,Female,45.0,1.55,18.73,Urban Resident,59-69,False,18.73
+785929,Female,62.5,1.72,21.13,Urban Resident,79-89,False,21.13
+736358,Female,50.0,1.6,19.53,Urban Resident,69-79,False,19.53
+836026,Female,78.0,1.6,30.47,Urban Resident,21-29,False,30.47
+807165,Female,45.0,1.65,16.53,Urban Resident,59-69,False,16.53
+731237,Female,55.0,1.7,19.03,Farmer,69-79,False,19.03
+738813,Male,56.0,1.62,21.34,Urban Resident,69-79,False,21.34
+831859,Male,49.0,1.68,17.36,Urban Resident,79-89,False,17.36
+790571,Female,48.0,1.53,20.5,Urban Resident,79-89,False,20.5
+797183,Female,55.0,1.68,19.49,Urban Resident,69-79,False,19.49
+793909,Male,58.0,1.54,24.46,Urban Resident,69-79,False,24.46
+820961,Male,47.0,1.56,19.31,Others,69-79,False,19.31
+749047,Male,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+758056,Male,51.0,1.67,18.29,Urban Resident,79-89,False,18.29
+777978,Male,45.0,1.45,21.4,Urban Resident,59-69,False,21.4
+784079,Female,51.0,1.58,20.43,Urban Resident,79-89,False,20.43
+819641,Female,65.0,1.6,25.39,Urban Resident,79-89,False,25.39
+837728,Female,65.0,1.55,27.06,Urban Resident,79-89,False,27.06
+780506,Female,51.0,1.65,18.73,Farmer,59-69,False,18.73
+735111,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+728787,Male,65.0,1.55,27.06,Urban Resident,79-89,False,27.06
+826477,Female,65.0,1.5,28.89,Urban Resident,69-79,False,28.89
+776619,Female,45.0,1.55,18.73,Farmer,59-69,False,18.73
+866986,Male,60.0,1.72,20.28,Urban Resident,69-79,False,20.28
+864492,Female,64.0,1.6,25.0,Others,49-59,False,25.0
+858640,Male,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+762948,Female,45.0,1.6,17.58,Others,79-89,False,17.58
+810074,Male,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+790124,Male,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+749285,Male,40.0,1.5,17.78,Urban Resident,49-59,False,17.78
+723617,Male,70.0,1.5,31.11,Urban Resident,79-89,False,31.11
+785404,Female,60.0,1.53,25.63,Urban Resident,79-89,False,25.63
+770338,Male,40.0,1.68,,Farmer,69-79,False,14.17
+821205,Female,55.0,1.61,21.22,Urban Resident,69-79,False,21.22
+822964,Female,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+791740,Male,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+731496,Male,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+861518,Female,48.5,1.5,21.56,Urban Resident,89-110,False,21.56
+786996,Male,50.0,1.65,18.37,Urban Resident,69-79,False,18.37
+801768,Male,49.0,1.59,19.38,Urban Resident,69-79,False,19.38
+827228,Male,50.0,1.52,21.64,Urban Resident,69-79,False,21.64
+845081,Male,49.5,1.7,17.13,Farmer,69-79,False,17.13
+792690,Female,48.0,1.5,21.33,Others,69-79,False,21.33
+784935,Male,53.0,1.63,19.95,Urban Resident,69-79,False,19.95
+805212,Female,58.0,1.5,25.78,Urban Resident,59-69,False,25.78
+847868,Female,48.0,1.5,21.33,Urban Resident,69-79,False,21.33
+784508,Male,72.0,1.65,26.45,Urban Resident,39-49,False,26.45
+787991,Female,68.0,1.58,27.24,Urban Resident,79-89,False,27.24
+837041,Female,49.0,,,Urban Resident,69-79,True,212.67
+869207,Female,47.5,1.4,24.23,Urban Resident,79-89,False,24.23
+815840,Male,62.0,1.62,23.62,Urban Resident,69-79,False,23.62
+815731,Male,49.5,,,Farmer,49-59,True,404.08
+757078,Female,40.0,1.5,17.78,Farmer,29-39,False,17.78
+764372,Male,50.0,1.55,20.81,Urban Resident,69-79,False,20.81
+798431,Female,48.0,1.5,21.33,Others,89-110,False,21.33
+845830,Male,49.5,1.58,19.83,Urban Resident,69-79,False,19.83
+801008,Female,52.0,1.55,21.64,Urban Resident,79-89,False,21.64
+808811,Female,53.0,1.57,21.5,Urban Resident,79-89,False,21.5
+837564,Male,48.5,1.6,18.95,Urban Resident,79-89,False,18.95
+864856,Female,47.0,1.5,20.89,Urban Resident,59-69,False,20.89
+796275,Male,68.0,1.5,30.22,Urban Resident,79-89,False,30.22
+809347,Male,48.0,1.5,21.33,Urban Resident,59-69,False,21.33
+822272,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+803419,Female,45.0,1.58,18.03,Urban Resident,59-69,False,18.03
+787764,Female,62.0,1.5,27.56,Urban Resident,79-89,False,27.56
+810978,Female,47.5,1.6,18.55,Urban Resident,69-79,False,18.55
+805044,Male,50.0,,,Urban Resident,59-69,True,138.89
+785379,Male,48.0,1.48,21.91,Urban Resident,79-89,False,21.91
+789355,Female,77.5,1.58,31.04,Urban Resident,89-110,False,31.04
+785410,Female,48.5,1.5,21.56,Urban Resident,79-89,False,21.56
+731623,Female,58.0,1.45,27.59,Urban Resident,79-89,False,27.59
+838426,Male,49.0,1.66,17.78,Urban Resident,59-69,False,17.78
+814293,Female,46.0,1.52,19.91,Urban Resident,59-69,False,19.91
+869987,Male,47.5,1.7,16.44,Urban Resident,79-89,False,16.44
+747336,Male,67.0,1.52,29.0,Farmer,69-79,False,29.0
+744357,Male,78.0,1.65,28.65,Farmer,79-89,False,28.65
+835430,Female,60.0,1.53,25.63,Urban Resident,69-79,False,25.63
+809600,Male,40.0,1.68,,Urban Resident,69-79,False,14.17
+796221,Female,55.0,1.61,21.22,Urban Resident,69-79,False,21.22
+825763,Female,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+818293,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+728122,Female,45.0,1.6,17.58,Farmer,69-79,False,17.58
+733863,Male,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+784166,Male,47.0,1.65,17.26,Urban Resident,59-69,False,17.26
+766868,Female,62.0,1.65,22.77,Urban Resident,89-110,False,22.77
+782674,Female,65.0,1.6,25.39,Urban Resident,79-89,False,25.39
+779262,Female,70.0,1.63,26.35,Urban Resident,69-79,False,26.35
+737396,Female,37.0,1.5,16.44,Urban Resident,59-69,False,16.44
+837826,Female,48.0,1.55,19.98,Urban Resident,79-89,False,19.98
+796678,Female,48.0,1.52,20.78,Urban Resident,69-79,False,20.78
+797444,Female,45.0,1.45,21.4,Urban Resident,69-79,False,21.4
+766664,Female,47.0,1.62,17.91,Urban Resident,79-89,False,17.91
+794825,Female,44.0,1.5,19.56,Urban Resident,69-79,False,19.56
+795619,Male,54.0,1.65,19.83,Urban Resident,79-89,False,19.83
+818767,Female,62.0,1.52,26.84,Urban Resident,59-69,False,26.84
+860157,Male,49.5,1.55,20.6,Urban Resident,79-89,False,20.6
+752172,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+750105,Female,55.0,1.65,20.2,Farmer,79-89,False,20.2
+794928,Female,48.0,1.52,20.78,Urban Resident,69-79,False,20.78
+741805,Female,60.0,1.7,20.76,Urban Resident,69-79,False,20.76
+792821,Female,45.0,1.75,,Urban Resident,69-79,False,14.69
+729438,Female,70.0,1.58,28.04,Urban Resident,89-110,False,28.04
+865511,Female,49.0,1.6,19.14,Urban Resident,69-79,False,19.14
+862169,Female,48.5,1.45,23.07,Urban Resident,69-79,False,23.07
+791103,Female,71.0,1.55,29.55,Urban Resident,79-89,False,29.55
+742244,Male,57.0,1.35,31.28,Urban Resident,69-79,False,31.28
+861987,Male,49.0,1.65,18.0,Urban Resident,59-69,False,18.0
+766702,Male,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+840155,Male,53.0,1.55,22.06,Farmer,49-59,False,22.06
+856223,Male,49.0,1.55,20.4,Urban Resident,49-59,False,20.4
+730511,Female,,1.55,,Urban Resident,79-89,True,0.0
+731871,Male,49.5,1.5,22.0,Urban Resident,69-79,False,22.0
+815024,Male,60.0,1.7,20.76,Urban Resident,39-49,False,20.76
+742953,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+863915,Male,65.0,1.67,23.31,Urban Resident,79-89,False,23.31
+742013,Male,68.0,1.57,27.59,Urban Resident,79-89,False,27.59
+783130,Male,57.0,1.6,22.27,Urban Resident,69-79,False,22.27
+744588,Male,58.0,1.61,22.38,Others,69-79,False,22.38
+855682,Male,48.5,1.6,18.95,Urban Resident,79-89,False,18.95
+785878,Male,,1.65,,Urban Resident,59-69,True,0.0
+852644,Female,48.5,1.44,23.39,Urban Resident,69-79,False,23.39
+741559,Female,38.0,1.5,16.89,Urban Resident,79-89,False,16.89
+794844,Male,55.0,1.53,23.5,Urban Resident,79-89,False,23.5
+851982,Female,48.0,1.5,21.33,Urban Resident,69-79,False,21.33
+829127,Male,75.0,1.65,27.55,Urban Resident,59-69,False,27.55
+760663,Male,50.0,1.6,19.53,Urban Resident,59-69,False,19.53
+815318,Male,51.0,1.6,19.92,Urban Resident,89-110,False,19.92
+783596,Female,40.0,1.58,16.02,Others,69-79,False,16.02
+798707,Male,70.0,1.6,27.34,Farmer,79-89,False,27.34
+744087,Female,64.0,1.52,27.7,Urban Resident,69-79,False,27.7
+868283,Male,42.0,1.55,17.48,Farmer,79-89,False,17.48
+781455,Female,68.0,1.52,29.43,Others,59-69,False,29.43
+785223,Male,50.0,1.6,19.53,Urban Resident,49-59,False,19.53
+791878,Female,68.0,1.5,30.22,Others,59-69,False,30.22
+785021,Female,52.0,1.55,21.64,Urban Resident,59-69,False,21.64
+814485,Female,51.0,1.52,22.07,Urban Resident,79-89,False,22.07
+736204,Female,53.0,1.5,23.56,Others,79-89,False,23.56
+837459,Male,49.5,1.62,18.86,Worker,39-49,False,18.86
+791945,Female,45.0,1.55,18.73,Urban Resident,89-110,False,18.73
+758823,Female,45.0,1.48,20.54,Urban Resident,59-69,False,20.54
+829732,Female,60.0,1.55,24.97,Urban Resident,69-79,False,24.97
+804237,Female,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+801427,Male,50.0,1.5,22.22,Urban Resident,59-69,False,22.22
+816190,Female,55.0,1.48,25.11,Urban Resident,69-79,False,25.11
+733649,Male,42.0,1.52,18.18,Urban Resident,69-79,False,18.18
+869886,Female,48.0,1.45,22.83,Urban Resident,79-89,False,22.83
+804786,Female,50.0,1.65,18.37,Urban Resident,79-89,False,18.37
+805417,Male,49.0,1.59,19.38,Urban Resident,79-89,False,19.38
+757599,Female,50.0,1.52,21.64,Others,79-89,False,21.64
+807759,Female,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+766722,Male,38.0,1.4,19.39,Farmer,69-79,False,19.39
+750322,Male,54.0,1.55,22.48,Farmer,59-69,False,22.48
+860305,Female,49.0,1.56,20.13,Urban Resident,69-79,False,20.13
+863944,Female,45.0,1.53,19.22,Farmer,69-79,False,19.22
+765383,Female,42.0,1.58,16.82,Others,79-89,False,16.82
+819167,Female,45.0,1.52,19.48,Urban Resident,69-79,False,19.48
+838076,Female,40.0,1.58,16.02,Urban Resident,69-79,False,16.02
+820942,Female,45.0,1.4,22.96,Farmer,59-69,False,22.96
+799325,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+802140,Female,47.0,1.43,22.98,Urban Resident,59-69,False,22.98
+856206,Female,48.5,1.58,19.43,Urban Resident,69-79,False,19.43
+805435,Male,50.0,1.52,21.64,Farmer,69-79,False,21.64
+770722,Female,45.0,1.6,17.58,Urban Resident,79-89,False,17.58
+788518,Male,38.0,1.4,19.39,Urban Resident,79-89,False,19.39
+798374,Female,54.0,1.55,22.48,Others,59-69,False,22.48
+778444,Male,45.0,1.5,20.0,Urban Resident,59-69,False,20.0
+800397,Female,60.0,1.58,24.03,Urban Resident,79-89,False,24.03
+738288,Male,67.5,1.55,28.1,Urban Resident,69-79,False,28.1
+836894,Female,48.0,1.55,19.98,Farmer,69-79,False,19.98
+840048,Male,49.0,1.63,18.44,Urban Resident,79-89,False,18.44
+772377,Female,55.0,1.7,19.03,Urban Resident,49-59,False,19.03
+813664,Female,60.0,1.6,23.44,Farmer,59-69,False,23.44
+735029,Male,50.0,1.65,18.37,Others,69-79,False,18.37
+793404,Female,49.0,1.59,19.38,Urban Resident,69-79,False,19.38
+759764,Male,50.0,1.52,21.64,Urban Resident,69-79,False,21.64
+806775,Female,45.0,1.6,17.58,Urban Resident,79-89,False,17.58
+782587,Male,38.0,1.4,19.39,Urban Resident,89-110,False,19.39
+804291,Female,54.0,1.55,22.48,Urban Resident,79-89,False,22.48
+817755,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+759319,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+821102,Male,57.0,1.57,23.12,Worker,89-110,False,23.12
+771522,Female,42.0,1.6,16.41,Urban Resident,69-79,False,16.41
+747991,Female,75.0,1.5,33.33,Farmer,69-79,False,33.33
+763763,Female,65.0,1.55,27.06,Farmer,59-69,False,27.06
+751841,Male,75.0,1.67,26.89,Urban Resident,79-89,False,26.89
+854211,Male,49.0,1.67,17.57,Urban Resident,59-69,False,17.57
+793962,Male,66.0,1.6,25.78,Urban Resident,69-79,False,25.78
+735633,Female,42.0,1.58,16.82,Urban Resident,69-79,False,16.82
+798020,Male,45.0,1.52,19.48,Urban Resident,69-79,False,19.48
+756996,Female,40.0,1.58,16.02,Urban Resident,79-89,False,16.02
+752803,Male,45.0,1.4,22.96,Farmer,49-59,False,22.96
+733116,Female,52.0,1.55,21.64,Urban Resident,59-69,False,21.64
+858497,Male,48.5,1.7,16.78,Urban Resident,89-110,False,16.78
+850791,Male,48.0,1.7,16.61,Urban Resident,79-89,False,16.61
+810349,Female,40.0,1.68,,Urban Resident,59-69,False,14.17
+856438,Male,48.0,1.65,17.63,Urban Resident,79-89,False,17.63
+791177,Male,54.0,1.68,19.13,Urban Resident,59-69,False,19.13
+775572,Female,,1.5,,Urban Resident,69-79,True,0.0
+865520,Male,49.5,1.6,19.34,Urban Resident,79-89,False,19.34
+782088,Male,42.0,1.58,16.82,Urban Resident,79-89,False,16.82
+805815,Male,45.0,1.52,19.48,Urban Resident,79-89,False,19.48
+852120,Male,49.0,1.6,19.14,Farmer,39-49,False,19.14
+811749,Male,42.0,1.58,16.82,Urban Resident,69-79,False,16.82
+814641,Female,45.0,1.52,19.48,Urban Resident,89-110,False,19.48
+794046,Female,40.0,1.58,16.02,Urban Resident,69-79,False,16.02
+746794,Male,45.0,1.4,22.96,Farmer,59-69,False,22.96
+752409,Female,60.0,1.58,24.03,Urban Resident,59-69,False,24.03
+743440,Male,43.0,1.65,15.79,Farmer,59-69,False,15.79
+859319,Male,48.0,1.6,18.75,Urban Resident,59-69,False,18.75
+762344,Female,46.0,1.4,23.47,Urban Resident,59-69,False,23.47
+745172,Female,70.0,1.69,24.51,Urban Resident,89-110,False,24.51
+769264,Male,46.0,1.4,23.47,Others,69-79,False,23.47
+797084,Male,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+834309,Female,40.0,1.5,17.78,Farmer,59-69,False,17.78
+784389,Female,40.0,1.5,17.78,Farmer,79-89,False,17.78
+849274,Female,47.0,1.6,18.36,Urban Resident,59-69,False,18.36
+770068,Male,75.0,1.5,33.33,Urban Resident,69-79,False,33.33
+760363,Female,65.0,1.55,27.06,Urban Resident,39-49,False,27.06
+768336,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+731880,Male,43.0,1.65,15.79,Farmer,69-79,False,15.79
+742218,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+777112,Male,70.0,1.5,31.11,Urban Resident,69-79,False,31.11
+852898,Male,49.5,1.57,20.08,Urban Resident,39-49,False,20.08
+737041,Female,35.0,1.42,17.36,Farmer,69-79,False,17.36
+859187,Male,48.0,1.6,18.75,Farmer,59-69,False,18.75
+811520,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+729332,Male,43.0,1.65,15.79,Urban Resident,69-79,False,15.79
+725777,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+787876,Female,70.0,1.5,31.11,Urban Resident,79-89,False,31.11
+738787,Male,60.0,1.53,25.63,Urban Resident,79-89,False,25.63
+775491,Female,40.0,1.68,,Urban Resident,79-89,False,14.17
+768269,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+794946,Male,60.0,1.68,21.26,Urban Resident,59-69,False,21.26
+792299,Female,48.0,1.5,21.33,Urban Resident,79-89,False,21.33
+792850,Female,47.0,1.48,21.46,Urban Resident,79-89,False,21.46
+736373,Female,77.0,1.55,32.05,Urban Resident,79-89,False,32.05
+849047,Female,40.0,1.56,16.44,Urban Resident,79-89,False,16.44
+833564,Female,35.0,1.42,17.36,Urban Resident,79-89,False,17.36
+803204,Male,50.0,1.6,19.53,Urban Resident,69-79,False,19.53
+828737,Male,51.0,1.6,19.92,Urban Resident,59-69,False,19.92
+805113,Female,40.0,1.58,16.02,Urban Resident,69-79,False,16.02
+734664,Male,54.0,1.5,24.0,Urban Resident,69-79,False,24.0
+822848,Male,57.0,1.57,23.12,Farmer,69-79,False,23.12
+809771,Male,42.0,1.6,16.41,Urban Resident,79-89,False,16.41
+795884,Female,75.0,1.5,33.33,Urban Resident,59-69,False,33.33
+823153,Female,65.0,1.55,27.06,Urban Resident,79-89,False,27.06
+730971,Female,60.0,1.58,24.03,Farmer,69-79,False,24.03
+839791,Male,43.0,1.65,15.79,Urban Resident,79-89,False,15.79
+864654,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+741377,Female,70.0,1.5,31.11,Urban Resident,59-69,False,31.11
+812004,Male,40.0,1.68,,Urban Resident,89-110,False,14.17
+808366,Female,55.0,1.61,21.22,Urban Resident,49-59,False,21.22
+764091,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+770733,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+822304,Male,45.0,1.6,17.58,Urban Resident,89-110,False,17.58
+741972,Female,55.0,1.6,21.48,Others,59-69,False,21.48
+802408,Male,47.0,1.65,17.26,Urban Resident,59-69,False,17.26
+768007,Male,62.0,1.65,22.77,Worker,39-49,False,22.77
+769902,Female,65.0,1.6,25.39,Urban Resident,69-79,False,25.39
+732177,Male,70.0,1.63,26.35,Urban Resident,69-79,False,26.35
+814170,Female,37.0,1.5,16.44,Urban Resident,79-89,False,16.44
+754892,Male,65.0,1.6,25.39,Urban Resident,79-89,False,25.39
+827105,Female,55.0,1.48,25.11,Urban Resident,69-79,False,25.11
+809271,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+789719,Female,47.0,1.6,18.36,Urban Resident,69-79,False,18.36
+801689,Female,41.0,1.5,18.22,Urban Resident,79-89,False,18.22
+770173,Male,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+815665,Female,52.0,1.52,22.51,Urban Resident,79-89,False,22.51
+756055,Female,8.0,1.52,,Urban Resident,69-79,False,3.46
+848450,Female,49.5,1.58,19.83,Officer,89-110,False,19.83
+750142,Female,42.0,1.45,19.98,Urban Resident,69-79,False,19.98
+760645,Male,50.0,1.65,18.37,Urban Resident,69-79,False,18.37
+730541,Female,55.0,1.58,22.03,Urban Resident,79-89,False,22.03
+746731,Male,66.0,1.6,25.78,Urban Resident,59-69,False,25.78
+815768,Male,42.0,1.58,16.82,Unknown,69-79,False,16.82
+815219,Female,45.0,1.52,19.48,Urban Resident,49-59,False,19.48
+852259,Male,40.0,1.58,16.02,Unknown,69-79,False,16.02
+810257,Female,45.0,1.4,22.96,Urban Resident,79-89,False,22.96
+851418,Male,47.5,1.7,16.44,Urban Resident,59-69,False,16.44
+832829,Male,40.0,1.6,15.62,Urban Resident,69-79,False,15.62
+809694,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+830888,Female,42.0,1.5,18.67,Urban Resident,79-89,False,18.67
+772793,Female,48.0,1.5,21.33,Urban Resident,79-89,False,21.33
+736704,Male,45.0,1.65,16.53,Farmer,69-79,False,16.53
+798704,Male,53.0,1.6,20.7,Urban Resident,79-89,False,20.7
+865271,Female,47.0,1.55,19.56,Urban Resident,79-89,False,19.56
+733581,Female,55.0,1.62,20.96,Urban Resident,59-69,False,20.96
+770391,Male,65.0,1.7,22.49,Urban Resident,69-79,False,22.49
+740354,Female,60.0,1.65,22.04,Urban Resident,79-89,False,22.04
+842728,Male,84.0,1.6,32.81,Unknown,69-79,False,32.81
+768330,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+798025,Male,62.0,1.53,26.49,Urban Resident,69-79,False,26.49
+750910,Male,62.0,1.62,23.62,Urban Resident,79-89,False,23.62
+844739,Female,49.5,,,Urban Resident,79-89,True,404.08
+816037,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+747326,Female,50.0,1.55,20.81,Farmer,49-59,False,20.81
+802917,Male,73.0,1.65,26.81,Urban Resident,39-49,False,26.81
+809276,Male,45.0,1.58,18.03,Urban Resident,49-59,False,18.03
+780580,Female,53.0,1.45,25.21,Urban Resident,59-69,False,25.21
+807367,Female,55.0,1.53,23.5,Urban Resident,79-89,False,23.5
+867530,Female,50.0,1.53,21.36,Urban Resident,79-89,False,21.36
+730165,Female,40.0,1.5,17.78,Farmer,59-69,False,17.78
+858220,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+861170,Male,48.0,1.62,18.29,Urban Resident,69-79,False,18.29
+802143,Male,90.0,1.76,29.05,Urban Resident,59-69,False,29.05
+804754,Male,78.0,1.63,29.36,Urban Resident,59-69,False,29.36
+726930,Female,35.0,1.55,,Urban Resident,89-110,False,14.57
+739657,Male,57.0,1.55,23.73,Farmer,79-89,False,23.73
+823812,Male,75.0,1.7,25.95,Urban Resident,69-79,False,25.95
+749561,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+726119,Male,55.0,1.67,19.72,Farmer,69-79,False,19.72
+782110,Male,58.0,1.6,22.66,Urban Resident,69-79,False,22.66
+801705,Male,70.0,1.68,24.8,Urban Resident,79-89,False,24.8
+809536,Male,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+853896,Male,50.0,1.57,20.28,Urban Resident,69-79,False,20.28
+859979,Male,49.0,1.6,19.14,Urban Resident,69-79,False,19.14
+868809,Male,48.0,1.72,16.22,Urban Resident,39-49,False,16.22
+769113,Female,46.0,1.53,19.65,Urban Resident,79-89,False,19.65
+836661,Male,53.0,1.6,20.7,Urban Resident,69-79,False,20.7
+792875,Female,47.0,1.55,19.56,Farmer,79-89,False,19.56
+735228,Male,60.0,1.6,23.44,Urban Resident,49-59,False,23.44
+864033,Female,47.5,1.55,19.77,Urban Resident,69-79,False,19.77
+780790,Female,55.0,1.43,26.9,Urban Resident,59-69,False,26.9
+741444,Male,52.0,1.73,17.37,Urban Resident,59-69,False,17.37
+856848,Female,47.5,1.49,21.4,Urban Resident,69-79,False,21.4
+809862,Female,52.0,1.4,26.53,Urban Resident,79-89,False,26.53
+832472,Male,45.0,1.55,18.73,Farmer,79-89,False,18.73
+761208,Female,53.0,1.5,23.56,Others,69-79,False,23.56
+869991,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+834493,Female,55.0,1.5,24.44,Urban Resident,59-69,False,24.44
+859561,Male,40.0,1.58,16.02,Urban Resident,79-89,False,16.02
+757170,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+740311,Male,74.0,1.7,25.61,Urban Resident,79-89,False,25.61
+734179,Female,50.0,1.55,20.81,Farmer,59-69,False,20.81
+811111,Male,52.0,1.58,20.83,Urban Resident,59-69,False,20.83
+758655,Male,55.0,1.7,19.03,Urban Resident,69-79,False,19.03
+808847,Female,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+800349,Male,50.0,1.65,18.37,Urban Resident,79-89,False,18.37
+764993,Female,49.0,1.59,19.38,Urban Resident,69-79,False,19.38
+737994,Female,50.0,1.52,21.64,Urban Resident,79-89,False,21.64
+806741,Male,45.0,1.6,17.58,Urban Resident,89-110,False,17.58
+754273,Female,38.0,1.4,19.39,Urban Resident,79-89,False,19.39
+822500,Female,54.0,1.55,22.48,Urban Resident,89-110,False,22.48
+834310,Female,45.0,1.5,20.0,Urban Resident,89-110,False,20.0
+741202,Male,60.0,1.58,24.03,Urban Resident,59-69,False,24.03
+814358,Female,67.5,1.55,28.1,Urban Resident,69-79,False,28.1
+751296,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+879601,Male,70.0,1.69,24.51,Unknown,79-89,False,24.51
+852935,Female,46.0,1.4,23.47,Urban Resident,79-89,False,23.47
+812498,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+821000,Female,40.0,1.5,17.78,Urban Resident,89-110,False,17.78
+731108,Female,40.0,1.5,17.78,Farmer,59-69,False,17.78
+745052,Female,40.0,1.5,17.78,Farmer,69-79,False,17.78
+837942,Female,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+744571,Female,46.0,1.65,16.9,Urban Resident,59-69,False,16.9
+865456,Female,37.0,1.53,15.81,Urban Resident,69-79,False,15.81
+838960,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+802024,Male,54.0,1.6,21.09,Urban Resident,59-69,False,21.09
+781960,Male,40.0,1.55,16.65,Farmer,69-79,False,16.65
+803428,Female,58.0,1.5,25.78,Others,79-89,False,25.78
+803206,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+749496,Female,50.0,1.36,27.03,Farmer,79-89,False,27.03
+813580,Female,45.0,1.58,18.03,Urban Resident,79-89,False,18.03
+746111,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+769592,Female,47.5,1.58,19.03,Urban Resident,69-79,False,19.03
+802325,Female,50.0,1.52,21.64,Urban Resident,69-79,False,21.64
+816158,Female,50.0,1.46,23.46,Urban Resident,79-89,False,23.46
+774794,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+730802,Male,80.0,1.67,28.69,Urban Resident,59-69,False,28.69
+792818,Female,55.0,1.65,20.2,Urban Resident,59-69,False,20.2
+818264,Female,62.0,1.52,26.84,Worker,49-59,False,26.84
+786611,Female,65.0,1.6,25.39,Urban Resident,59-69,False,25.39
+798791,Female,70.0,1.45,33.29,Urban Resident,59-69,False,33.29
+803762,Female,55.0,1.56,22.6,Urban Resident,79-89,False,22.6
+858484,Male,49.5,1.6,19.34,Urban Resident,79-89,False,19.34
+840295,Female,48.0,1.58,19.23,Urban Resident,69-79,False,19.23
+795811,Female,55.0,1.53,23.5,Urban Resident,69-79,False,23.5
+793748,Male,66.0,1.68,23.38,Urban Resident,79-89,False,23.38
+840729,Female,70.0,1.5,31.11,Urban Resident,89-110,False,31.11
+733390,Male,60.0,1.65,22.04,Urban Resident,69-79,False,22.04
+823579,Male,45.0,1.66,16.33,Urban Resident,59-69,False,16.33
+827539,Female,55.0,1.6,21.48,Farmer,79-89,False,21.48
+816794,Female,36.0,1.5,16.0,Urban Resident,79-89,False,16.0
+785155,Male,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+746050,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+851897,Male,48.5,1.6,18.95,Urban Resident,69-79,False,18.95
+860499,Male,49.5,1.6,19.34,Urban Resident,69-79,False,19.34
+819424,Female,45.0,1.48,20.54,Urban Resident,79-89,False,20.54
+795101,Female,53.0,1.54,22.35,Urban Resident,69-79,False,22.35
+780573,Male,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+735975,Female,43.0,1.56,17.67,Urban Resident,59-69,False,17.67
+832886,Female,43.3,1.46,20.31,Urban Resident,49-59,False,20.31
+870126,Female,49.5,1.4,25.26,Urban Resident,79-89,False,25.26
+797416,Female,56.0,1.63,21.08,Urban Resident,59-69,False,21.08
+797417,Female,30.0,1.45,,Urban Resident,89-110,False,14.27
+811560,Female,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+772390,Female,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+780779,Male,55.0,1.7,19.03,Urban Resident,69-79,False,19.03
+850812,Male,49.0,1.65,18.0,Urban Resident,69-79,False,18.0
+858858,Male,49.0,1.74,16.18,Urban Resident,79-89,False,16.18
+814340,Female,40.0,1.4,20.41,Urban Resident,79-89,False,20.41
+747900,Male,58.0,1.72,19.61,Others,79-89,False,19.61
+817057,Female,70.0,1.54,29.52,Urban Resident,59-69,False,29.52
+769870,Female,50.0,1.55,20.81,Urban Resident,29-39,False,20.81
+766409,Female,45.0,1.56,18.49,Urban Resident,69-79,False,18.49
+819431,Male,57.0,1.69,19.96,Urban Resident,59-69,False,19.96
+758069,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+781910,Female,70.0,1.6,27.34,Urban Resident,79-89,False,27.34
+791407,Female,32.0,1.45,15.22,Urban Resident,69-79,False,15.22
+860743,Male,49.0,1.7,16.96,Urban Resident,89-110,False,16.96
+869151,Male,49.5,1.6,19.34,Urban Resident,69-79,False,19.34
+729272,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+847433,Female,40.0,1.56,16.44,Urban Resident,89-110,False,16.44
+866532,Female,48.0,1.5,21.33,Urban Resident,49-59,False,21.33
+777335,Male,49.0,1.58,19.63,Urban Resident,69-79,False,19.63
+796839,Male,73.0,1.46,34.25,Urban Resident,69-79,False,34.25
+837990,Male,60.0,1.51,26.31,Urban Resident,79-89,False,26.31
+825901,Male,65.0,1.6,25.39,Unknown,59-69,False,25.39
+860596,Male,48.0,1.57,19.47,Others,59-69,False,19.47
+780741,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+789264,Female,45.0,1.46,21.11,Urban Resident,69-79,False,21.11
+796691,Female,44.0,1.5,19.56,Urban Resident,79-89,False,19.56
+835171,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+822056,Female,48.0,1.55,19.98,Urban Resident,89-110,False,19.98
+829800,Male,50.0,1.67,17.93,Urban Resident,79-89,False,17.93
+782318,Male,51.0,1.61,19.68,Urban Resident,79-89,False,19.68
+738780,Male,48.0,1.56,19.72,Others,39-49,False,19.72
+869806,Female,45.0,1.47,20.82,Urban Resident,79-89,False,20.82
+809812,Male,60.0,1.62,22.86,Urban Resident,79-89,False,22.86
+811471,Male,80.0,1.68,28.34,Urban Resident,79-89,False,28.34
+807183,Male,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+749234,Female,74.0,1.58,29.64,Urban Resident,59-69,False,29.64
+866006,Female,45.0,1.45,21.4,Urban Resident,69-79,False,21.4
+812922,Male,70.0,1.65,25.71,Farmer,59-69,False,25.71
+779860,Male,60.0,1.7,20.76,Urban Resident,69-79,False,20.76
+796591,Female,41.0,1.42,20.33,Urban Resident,59-69,False,20.33
+822575,Male,51.0,1.7,17.65,Worker,89-110,False,17.65
+843341,Female,49.0,1.45,23.31,Urban Resident,69-79,False,23.31
+799287,Male,83.0,1.66,30.12,Urban Resident,79-89,False,30.12
+741163,Male,55.0,1.67,19.72,Urban Resident,59-69,False,19.72
+822323,Male,48.0,1.68,17.01,Urban Resident,79-89,False,17.01
+783940,Female,55.0,1.5,24.44,Urban Resident,69-79,False,24.44
+795409,Female,40.0,1.52,17.31,Farmer,79-89,False,17.31
+858460,Female,47.5,1.35,26.06,Urban Resident,79-89,False,26.06
+762608,Male,45.0,1.56,18.49,Urban Resident,69-79,False,18.49
+806277,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+732290,Male,62.0,1.72,20.96,Urban Resident,59-69,False,20.96
+745937,Female,48.0,1.54,20.24,Urban Resident,79-89,False,20.24
+787284,Female,46.0,1.54,19.4,Urban Resident,79-89,False,19.4
+864583,Female,45.0,1.58,18.03,Urban Resident,89-110,False,18.03
+735677,Male,45.0,1.65,16.53,Farmer,69-79,False,16.53
+807691,Female,55.0,1.45,26.16,Urban Resident,69-79,False,26.16
+808604,Male,40.0,1.5,17.78,Unknown,79-89,False,17.78
+744977,Female,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+802700,Male,60.0,1.6,23.44,Unknown,79-89,False,23.44
+777204,Male,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+831510,Female,45.0,1.48,20.54,Urban Resident,79-89,False,20.54
+830988,Male,60.0,1.55,24.97,Urban Resident,59-69,False,24.97
+848784,Female,48.0,1.55,19.98,Urban Resident,89-110,False,19.98
+731577,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+791702,Female,55.0,1.48,25.11,Urban Resident,59-69,False,25.11
+727668,Female,42.0,1.52,18.18,Urban Resident,69-79,False,18.18
+834586,Male,50.0,1.53,21.36,Urban Resident,79-89,False,21.36
+856721,Female,50.0,1.5,22.22,Others,79-89,False,22.22
+731755,Male,65.0,1.78,20.52,Urban Resident,49-59,False,20.52
+858080,Male,49.5,1.58,19.83,Urban Resident,69-79,False,19.83
+763749,Female,60.0,1.55,24.97,Urban Resident,69-79,False,24.97
+800022,Male,62.0,1.62,23.62,Urban Resident,69-79,False,23.62
+841611,Male,66.0,1.63,24.84,Urban Resident,59-69,False,24.84
+828786,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+838870,Female,62.0,1.6,24.22,Others,69-79,False,24.22
+842847,Female,48.0,1.45,22.83,Urban Resident,69-79,False,22.83
+858697,Female,56.0,1.45,26.63,Urban Resident,49-59,False,26.63
+775827,Female,53.0,1.5,23.56,Urban Resident,69-79,False,23.56
+791916,Male,65.0,1.68,23.03,Urban Resident,59-69,False,23.03
+776249,Female,50.0,1.6,19.53,Urban Resident,39-49,False,19.53
+865386,Female,65.0,1.5,28.89,Urban Resident,79-89,False,28.89
+728498,Female,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+801588,Female,35.0,1.5,15.56,Farmer,69-79,False,15.56
+735035,Male,60.0,1.6,23.44,Others,79-89,False,23.44
+824103,Male,65.0,1.7,22.49,Urban Resident,69-79,False,22.49
+822471,Male,55.0,1.63,20.7,Urban Resident,59-69,False,20.7
+804208,Male,55.0,1.63,20.7,Unknown,59-69,False,20.7
+817891,Female,42.0,1.53,17.94,Urban Resident,79-89,False,17.94
+779965,Male,75.0,1.58,30.04,Urban Resident,89-110,False,30.04
+789555,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+794390,Female,45.0,1.45,21.4,Urban Resident,79-89,False,21.4
+758926,Male,40.0,1.6,15.62,Urban Resident,59-69,False,15.62
+843118,Male,55.0,1.6,21.48,Farmer,79-89,False,21.48
+861990,Female,50.0,1.55,20.81,Urban Resident,69-79,False,20.81
+830537,Female,50.0,1.56,20.55,Urban Resident,49-59,False,20.55
+726940,Male,60.0,1.6,23.44,Farmer,39-49,False,23.44
+857388,Male,68.0,1.66,24.68,Urban Resident,69-79,False,24.68
+805177,Female,34.0,1.5,15.11,Urban Resident,79-89,False,15.11
+765275,Male,42.5,1.6,16.6,Farmer,39-49,False,16.6
+795309,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+819513,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+803821,Male,80.0,1.73,26.73,Urban Resident,79-89,False,26.73
+860010,Female,60.0,1.55,24.97,Urban Resident,89-110,False,24.97
+814906,Male,56.0,1.62,21.34,Urban Resident,59-69,False,21.34
+748865,Male,42.0,1.5,18.67,Urban Resident,69-79,False,18.67
+820242,Female,47.0,1.56,19.31,Urban Resident,79-89,False,19.31
+773800,Male,60.0,1.71,20.52,Urban Resident,69-79,False,20.52
+736983,Female,50.0,1.57,20.28,Urban Resident,69-79,False,20.28
+864182,Male,48.0,1.55,19.98,Urban Resident,79-89,False,19.98
+746882,Female,45.0,1.45,21.4,Urban Resident,79-89,False,21.4
+821941,Female,34.0,1.56,,Urban Resident,49-59,False,13.97
+733879,Female,60.0,1.66,21.77,Urban Resident,69-79,False,21.77
+739659,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+736762,Male,60.0,1.6,23.44,Urban Resident,49-59,False,23.44
+785225,Male,70.0,1.67,25.1,Urban Resident,79-89,False,25.1
+836163,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+795014,Male,60.0,1.68,21.26,Urban Resident,69-79,False,21.26
+804847,Male,58.0,1.55,24.14,Urban Resident,59-69,False,24.14
+734118,Male,70.0,1.65,25.71,Urban Resident,69-79,False,25.71
+753274,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+818073,Female,50.0,1.53,21.36,Urban Resident,79-89,False,21.36
+831320,Female,70.0,1.64,26.03,Urban Resident,49-59,False,26.03
+830900,Female,90.0,1.6,35.16,Urban Resident,79-89,False,35.16
+754764,Female,53.0,1.42,26.28,Urban Resident,89-110,False,26.28
+790083,Female,55.0,1.5,24.44,Urban Resident,59-69,False,24.44
+789523,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+826826,Female,40.0,1.45,19.02,Urban Resident,89-110,False,19.02
+809120,Female,58.0,1.55,24.14,Urban Resident,79-89,False,24.14
+798922,Male,48.0,1.6,18.75,Urban Resident,79-89,False,18.75
+809814,Male,67.0,1.72,22.65,Urban Resident,59-69,False,22.65
+810318,Female,55.0,1.3,32.54,Urban Resident,79-89,False,32.54
+832156,Male,55.0,1.7,19.03,Urban Resident,79-89,False,19.03
+732466,Female,60.0,1.63,22.58,Urban Resident,39-49,False,22.58
+800740,Female,42.0,1.6,16.41,Urban Resident,49-59,False,16.41
+846751,Female,55.0,1.5,24.44,Urban Resident,69-79,False,24.44
+750752,Male,45.0,1.6,17.58,Farmer,69-79,False,17.58
+723327,Female,52.0,1.55,21.64,Urban Resident,59-69,False,21.64
+812292,Male,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+741449,Male,70.0,1.56,28.76,Urban Resident,79-89,False,28.76
+739119,Female,40.0,1.45,19.02,Urban Resident,79-89,False,19.02
+750467,Female,73.0,1.48,33.33,Urban Resident,69-79,False,33.33
+749874,Male,55.0,1.62,20.96,Farmer,69-79,False,20.96
+752701,Male,65.0,1.64,24.17,Urban Resident,69-79,False,24.17
+764451,Female,48.0,1.5,21.33,Urban Resident,69-79,False,21.33
+848894,Female,53.0,1.58,21.23,Urban Resident,69-79,False,21.23
+754754,Female,55.0,1.45,26.16,Urban Resident,59-69,False,26.16
+737251,Female,46.0,1.72,15.55,Others,69-79,False,15.55
+773684,Female,48.0,1.54,20.24,Urban Resident,69-79,False,20.24
+817061,Male,47.5,1.58,19.03,Others,69-79,False,19.03
+727373,Female,44.0,1.55,18.31,Farmer,49-59,False,18.31
+750702,Male,96.0,1.68,34.01,Urban Resident,69-79,False,34.01
+755244,Female,45.0,1.56,18.49,Urban Resident,79-89,False,18.49
+794590,Male,83.0,1.66,30.12,Urban Resident,79-89,False,30.12
+763781,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+868046,Male,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+796242,Male,52.0,1.68,18.42,Urban Resident,79-89,False,18.42
+770134,Female,41.0,1.54,17.29,Farmer,59-69,False,17.29
+802768,Male,60.0,1.7,20.76,Urban Resident,59-69,False,20.76
+797537,Female,62.0,1.53,26.49,Urban Resident,59-69,False,26.49
+755028,Female,55.0,1.55,22.89,Urban Resident,39-49,False,22.89
+865969,Female,55.0,1.57,22.31,Urban Resident,59-69,False,22.31
+798835,Male,70.0,1.54,29.52,Urban Resident,49-59,False,29.52
+823864,Female,60.0,1.5,26.67,Urban Resident,69-79,False,26.67
+819993,Female,52.0,1.58,20.83,Farmer,69-79,False,20.83
+845977,Male,70.0,1.7,24.22,Urban Resident,49-59,False,24.22
+730136,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+770180,Male,45.0,1.6,17.58,Urban Resident,79-89,False,17.58
+778118,Female,53.0,1.48,24.2,Urban Resident,69-79,False,24.2
+754833,Male,82.0,1.7,28.37,Urban Resident,69-79,False,28.37
+814085,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+744824,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+798198,Male,50.0,1.7,17.3,Urban Resident,59-69,False,17.3
+832842,Male,70.0,1.72,23.66,Urban Resident,79-89,False,23.66
+798382,Female,41.0,1.45,19.5,Urban Resident,49-59,False,19.5
+788618,Male,70.0,1.75,22.86,Urban Resident,39-49,False,22.86
+761601,Male,50.0,1.65,18.37,Urban Resident,79-89,False,18.37
+816710,Female,40.0,1.5,17.78,Urban Resident,89-110,False,17.78
+804385,Male,53.0,1.6,20.7,Urban Resident,79-89,False,20.7
+818210,Male,85.0,1.7,29.41,Urban Resident,39-49,False,29.41
+741267,Male,65.0,1.67,23.31,Urban Resident,79-89,False,23.31
+763040,Male,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+849128,Male,55.0,1.65,20.2,Urban Resident,69-79,False,20.2
+792139,Female,48.0,1.52,20.78,Urban Resident,59-69,False,20.78
+787336,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+807084,Male,45.0,1.75,,Urban Resident,89-110,False,14.69
+865182,Male,70.0,1.58,28.04,Urban Resident,39-49,False,28.04
+739385,Male,56.0,1.58,22.43,Farmer,79-89,False,22.43
+812598,Male,91.0,1.83,27.17,Urban Resident,69-79,False,27.17
+814161,Female,45.0,1.52,19.48,Urban Resident,79-89,False,19.48
+815140,Female,45.0,1.5,20.0,Farmer,49-59,False,20.0
+798655,Female,50.0,1.6,19.53,Farmer,59-69,False,19.53
+727453,Female,40.0,1.48,18.26,Farmer,59-69,False,18.26
+761860,Male,59.0,1.58,23.63,Urban Resident,79-89,False,23.63
+862873,Female,55.0,1.6,21.48,Urban Resident,59-69,False,21.48
+831325,Female,42.0,1.52,18.18,Urban Resident,59-69,False,18.18
+737608,Female,44.0,1.55,18.31,Farmer,59-69,False,18.31
+775196,Female,40.0,1.53,17.09,Urban Resident,79-89,False,17.09
+731808,Male,60.0,1.63,22.58,Urban Resident,69-79,False,22.58
+814532,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+816910,Male,55.0,1.73,18.38,Urban Resident,69-79,False,18.38
+746068,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+809259,Male,52.0,1.62,19.81,Farmer,69-79,False,19.81
+815164,Female,45.0,1.45,21.4,Unknown,79-89,False,21.4
+860468,Male,65.0,1.6,25.39,Farmer,89-110,False,25.39
+850447,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+754127,Male,51.0,1.65,18.73,Urban Resident,59-69,False,18.73
+832185,Female,40.0,1.52,17.31,Urban Resident,69-79,False,17.31
+738938,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+825074,Female,65.0,1.5,28.89,Urban Resident,69-79,False,28.89
+768355,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+823317,Male,60.0,1.72,20.28,Urban Resident,59-69,False,20.28
+860793,Male,64.0,1.6,25.0,Others,69-79,False,25.0
+825484,Female,52.0,1.56,21.37,Urban Resident,29-39,False,21.37
+735749,Female,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+787622,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+795983,Male,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+737554,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+828126,Male,47.0,1.55,19.56,Urban Resident,59-69,False,19.56
+828794,Male,72.0,1.7,24.91,Urban Resident,49-59,False,24.91
+794077,Female,62.0,1.6,24.22,Unknown,49-59,False,24.22
+800763,Female,60.0,1.54,25.3,Urban Resident,79-89,False,25.3
+857373,Female,55.0,1.5,24.44,Urban Resident,59-69,False,24.44
+765698,Male,60.0,1.62,22.86,Urban Resident,69-79,False,22.86
+799225,Male,68.0,1.6,26.56,Urban Resident,69-79,False,26.56
+753702,Female,40.0,1.56,16.44,Urban Resident,79-89,False,16.44
+865993,Female,50.0,1.58,20.03,Urban Resident,69-79,False,20.03
+862675,Male,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+751832,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+793492,Male,65.0,1.65,23.88,Urban Resident,79-89,False,23.88
+862248,Male,45.0,1.7,15.57,Farmer,69-79,False,15.57
+729449,Female,50.0,1.5,22.22,Urban Resident,59-69,False,22.22
+830539,Male,68.0,1.72,22.99,Urban Resident,59-69,False,22.99
+905720,Female,50.0,1.55,20.81,Unknown,89-110,False,20.81
+752180,Female,40.0,1.5,17.78,Farmer,59-69,False,17.78
+752083,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+817444,Female,60.0,1.52,25.97,Unknown,89-110,False,25.97
+807425,Male,62.0,1.62,23.62,Urban Resident,69-79,False,23.62
+843701,Male,46.0,1.6,17.97,Urban Resident,79-89,False,17.97
+757820,Female,45.0,1.58,18.03,Urban Resident,79-89,False,18.03
+823992,Male,50.0,1.6,19.53,Urban Resident,59-69,False,19.53
+761179,Female,60.0,1.48,27.39,Urban Resident,79-89,False,27.39
+733275,Male,62.0,1.6,24.22,Urban Resident,79-89,False,24.22
+786506,Female,43.0,1.35,23.59,Others,79-89,False,23.59
+865932,Female,55.0,1.55,22.89,Urban Resident,69-79,False,22.89
+804696,Female,35.0,1.48,15.98,Urban Resident,79-89,False,15.98
+860163,Male,72.0,1.67,25.82,Urban Resident,79-89,False,25.82
+803054,Male,60.0,1.7,20.76,Urban Resident,59-69,False,20.76
+822937,Male,54.0,1.65,19.83,Urban Resident,69-79,False,19.83
+851158,Female,75.0,1.45,35.67,Urban Resident,79-89,False,35.67
+905163,Male,42.5,1.7,,Unknown,69-79,False,14.71
+798002,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+865283,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+799499,Female,52.0,1.5,23.11,Urban Resident,69-79,False,23.11
+802911,Female,58.0,1.55,24.14,Urban Resident,79-89,False,24.14
+807659,Male,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+730668,Female,35.0,1.5,15.56,Farmer,69-79,False,15.56
+779958,Female,40.0,1.45,19.02,Urban Resident,59-69,False,19.02
+760152,Male,48.0,1.59,18.99,Urban Resident,49-59,False,18.99
+822193,Male,51.0,1.7,17.65,Urban Resident,69-79,False,17.65
+815148,Female,42.0,1.56,17.26,Urban Resident,79-89,False,17.26
+795789,Male,68.0,1.63,25.59,Urban Resident,49-59,False,25.59
+794001,Female,62.0,1.56,25.48,Urban Resident,49-59,False,25.48
+806036,Female,44.0,1.58,17.63,Urban Resident,79-89,False,17.63
+758191,Female,70.0,1.6,27.34,Urban Resident,69-79,False,27.34
+750400,Female,42.0,1.49,18.92,Urban Resident,79-89,False,18.92
+839456,Female,60.0,1.58,24.03,Urban Resident,59-69,False,24.03
+796341,Male,58.0,1.73,19.38,Others,69-79,False,19.38
+857495,Male,50.0,1.68,17.72,Officer,79-89,False,17.72
+842638,Male,45.0,1.65,16.53,Urban Resident,69-79,False,16.53
+834294,Female,40.0,1.52,17.31,Urban Resident,69-79,False,17.31
+816429,Female,56.0,1.4,28.57,Urban Resident,69-79,False,28.57
+862637,Female,42.0,1.56,17.26,Urban Resident,59-69,False,17.26
+826544,Male,62.0,1.68,21.97,Urban Resident,59-69,False,21.97
+753406,Female,55.0,1.62,20.96,Urban Resident,79-89,False,20.96
+771456,Male,55.0,1.7,19.03,Urban Resident,59-69,False,19.03
+865139,Female,47.0,1.48,21.46,Urban Resident,79-89,False,21.46
+845261,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+853905,Male,60.0,1.55,24.97,Urban Resident,59-69,False,24.97
+779438,Female,58.0,1.48,26.48,Others,79-89,False,26.48
+863163,Female,55.0,1.53,23.5,Urban Resident,59-69,False,23.5
+788087,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+769093,Female,40.0,1.4,20.41,Urban Resident,69-79,False,20.41
+808787,Female,40.0,1.52,17.31,Urban Resident,79-89,False,17.31
+736639,Male,55.0,1.72,18.59,Farmer,49-59,False,18.59
+770998,Male,50.0,1.56,20.55,Farmer,59-69,False,20.55
+857096,Male,48.0,1.7,16.61,Urban Resident,89-110,False,16.61
+757415,Male,60.0,1.6,23.44,Others,69-79,False,23.44
+757082,Male,52.0,1.6,20.31,Urban Resident,49-59,False,20.31
+764381,Male,60.0,1.68,21.26,Urban Resident,59-69,False,21.26
+788271,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+834611,Male,53.0,1.58,21.23,Urban Resident,49-59,False,21.23
+785607,Female,51.0,1.55,21.23,Urban Resident,69-79,False,21.23
+725509,Female,55.0,1.58,22.03,Urban Resident,39-49,False,22.03
+786820,Male,43.0,1.55,17.9,Urban Resident,79-89,False,17.9
+785055,Female,45.0,1.55,18.73,Urban Resident,49-59,False,18.73
+868694,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+823447,Female,40.0,1.5,17.78,Farmer,79-89,False,17.78
+865983,Male,75.0,1.75,24.49,Urban Resident,69-79,False,24.49
+730746,Female,42.5,1.58,17.02,Urban Resident,79-89,False,17.02
+812773,Female,42.0,1.48,19.17,Farmer,69-79,False,19.17
+859681,Female,48.0,1.45,22.83,Urban Resident,69-79,False,22.83
+729973,Female,47.0,1.5,20.89,Farmer,79-89,False,20.89
+743100,Female,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+835982,Male,48.0,1.56,19.72,Urban Resident,69-79,False,19.72
+772172,Male,68.0,1.68,24.09,Urban Resident,39-49,False,24.09
+733759,Male,55.0,1.56,22.6,Others,59-69,False,22.6
+860681,Female,60.0,1.56,24.65,Urban Resident,79-89,False,24.65
+807894,Male,82.0,1.7,28.37,Urban Resident,69-79,False,28.37
+862214,Female,35.0,1.45,16.65,Urban Resident,69-79,False,16.65
+801095,Female,42.0,1.5,18.67,Urban Resident,79-89,False,18.67
+750080,Female,60.0,1.52,25.97,Urban Resident,59-69,False,25.97
+792547,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+793960,Female,42.5,1.54,17.92,Urban Resident,79-89,False,17.92
+745064,Female,59.0,1.58,23.63,Urban Resident,39-49,False,23.63
+789435,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+831433,Male,50.0,1.7,17.3,Urban Resident,69-79,False,17.3
+862914,Male,40.0,1.6,15.62,Urban Resident,49-59,False,15.62
+819994,Female,62.0,1.58,24.84,Urban Resident,89-110,False,24.84
+869467,Male,47.0,1.6,18.36,Urban Resident,59-69,False,18.36
+831345,Male,74.0,1.76,23.89,Urban Resident,39-49,False,23.89
+794457,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+795099,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+766922,Male,55.0,1.7,19.03,Farmer,69-79,False,19.03
+861595,Female,61.0,1.51,26.75,Urban Resident,59-69,False,26.75
+838763,Male,65.0,1.7,22.49,Urban Resident,59-69,False,22.49
+797601,Male,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+753493,Male,58.0,1.65,21.3,Urban Resident,59-69,False,21.3
+764425,Male,58.0,1.65,21.3,Urban Resident,69-79,False,21.3
+825044,Male,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+780797,Female,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+805352,Female,70.0,1.62,26.67,Urban Resident,49-59,False,26.67
+767726,Female,44.0,1.55,18.31,Urban Resident,69-79,False,18.31
+733771,Female,42.0,1.45,19.98,Farmer,59-69,False,19.98
+753373,Female,59.0,1.5,26.22,Urban Resident,69-79,False,26.22
+765197,Female,47.0,1.5,20.89,Others,69-79,False,20.89
+738058,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+801117,Female,54.0,1.5,24.0,Urban Resident,69-79,False,24.0
+765300,Female,45.0,1.56,18.49,Urban Resident,79-89,False,18.49
+818307,Female,65.0,1.58,26.04,Urban Resident,69-79,False,26.04
+817935,Male,45.0,1.55,18.73,Urban Resident,49-59,False,18.73
+812110,Female,57.0,1.5,25.33,Urban Resident,49-59,False,25.33
+743855,Female,65.0,1.6,25.39,Urban Resident,59-69,False,25.39
+815223,Female,40.0,1.5,17.78,Urban Resident,49-59,False,17.78
+777164,Male,47.0,1.55,19.56,Urban Resident,69-79,False,19.56
+849604,Male,49.0,1.53,20.93,Urban Resident,59-69,False,20.93
+869423,Male,50.0,1.7,17.3,Urban Resident,59-69,False,17.3
+788889,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+819882,Male,84.0,1.7,29.07,Urban Resident,69-79,False,29.07
+802219,Female,61.0,1.6,23.83,Urban Resident,69-79,False,23.83
+859306,Female,48.0,1.58,19.23,Urban Resident,59-69,False,19.23
+832696,Male,45.0,1.68,15.94,Urban Resident,59-69,False,15.94
+825736,Male,44.0,1.62,16.77,Unknown,59-69,False,16.77
+833345,Female,50.0,1.55,20.81,Officer,59-69,False,20.81
+726710,Male,85.0,1.7,29.41,Urban Resident,69-79,False,29.41
+849269,Male,90.0,1.6,35.16,Urban Resident,59-69,False,35.16
+827673,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+735177,Male,52.0,1.6,20.31,Farmer,69-79,False,20.31
+743489,Male,74.0,1.67,26.53,Urban Resident,69-79,False,26.53
+794461,Male,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+802073,Female,45.0,1.5,20.0,Urban Resident,59-69,False,20.0
+784806,Male,60.0,1.56,24.65,Urban Resident,69-79,False,24.65
+787584,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+779822,Male,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+790433,Male,72.5,1.6,28.32,Urban Resident,69-79,False,28.32
+741379,Female,40.0,1.6,15.62,Urban Resident,69-79,False,15.62
+758262,Female,55.0,1.5,24.44,Others,69-79,False,24.44
+782504,Male,70.0,1.65,25.71,Urban Resident,59-69,False,25.71
+780087,Male,71.0,1.58,28.44,Urban Resident,69-79,False,28.44
+820789,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+742203,Male,65.0,1.7,22.49,Urban Resident,69-79,False,22.49
+741607,Male,70.0,1.72,23.66,Urban Resident,39-49,False,23.66
+862470,Male,49.0,1.6,19.14,Urban Resident,59-69,False,19.14
+855875,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+868291,Female,49.0,1.55,20.4,Urban Resident,49-59,False,20.4
+835819,Female,49.0,1.52,21.21,Urban Resident,59-69,False,21.21
+781992,Female,69.0,1.46,32.37,Urban Resident,69-79,False,32.37
+737392,Female,52.0,1.55,21.64,Urban Resident,79-89,False,21.64
+771179,Female,70.0,1.5,31.11,Urban Resident,59-69,False,31.11
+869235,Male,48.0,1.6,18.75,Urban Resident,79-89,False,18.75
+796846,Male,82.0,1.62,31.25,Urban Resident,59-69,False,31.25
+824782,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+802150,Female,50.0,1.58,20.03,Urban Resident,69-79,False,20.03
+854551,Male,49.0,1.6,19.14,Urban Resident,79-89,False,19.14
+864210,Male,78.0,1.6,30.47,Urban Resident,39-49,False,30.47
+805198,Female,60.0,1.48,27.39,Urban Resident,69-79,False,27.39
+825433,Female,56.0,1.46,26.27,Urban Resident,69-79,False,26.27
+855452,Female,34.0,1.35,18.66,Urban Resident,79-89,False,18.66
+808088,Female,65.0,1.58,26.04,Others,69-79,False,26.04
+757913,Female,33.0,1.35,18.11,Urban Resident,69-79,False,18.11
+813079,Male,60.0,1.6,23.44,Worker,59-69,False,23.44
+818894,Female,42.0,1.45,19.98,Urban Resident,69-79,False,19.98
+831589,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+831937,Male,72.0,1.72,24.34,Urban Resident,69-79,False,24.34
+834443,Male,65.0,1.7,22.49,Urban Resident,79-89,False,22.49
+725871,Female,47.0,1.57,19.07,Urban Resident,69-79,False,19.07
+757161,Male,50.0,1.65,18.37,Urban Resident,69-79,False,18.37
+768479,Male,44.0,1.65,16.16,Urban Resident,69-79,False,16.16
+774396,Female,79.0,1.55,32.88,Urban Resident,69-79,False,32.88
+722128,Female,50.0,1.64,18.59,Urban Resident,69-79,False,18.59
+825923,Male,50.0,1.7,17.3,Urban Resident,59-69,False,17.3
+779612,Female,70.0,1.6,27.34,Urban Resident,59-69,False,27.34
+809447,Male,40.0,1.75,,Urban Resident,79-89,False,13.06
+757977,Male,50.0,1.6,19.53,Farmer,59-69,False,19.53
+799594,Male,45.0,1.56,18.49,Urban Resident,89-110,False,18.49
+757421,Female,45.0,1.58,18.03,Urban Resident,59-69,False,18.03
+738285,Female,40.0,1.57,16.23,Urban Resident,79-89,False,16.23
+742111,Male,70.0,1.68,24.8,Urban Resident,69-79,False,24.8
+802240,Male,75.0,1.72,25.35,Urban Resident,79-89,False,25.35
+747230,Male,55.0,1.7,19.03,Urban Resident,69-79,False,19.03
+779068,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+857427,Male,47.5,1.72,16.06,Urban Resident,59-69,False,16.06
+756500,Female,54.0,1.55,22.48,Farmer,69-79,False,22.48
+798725,Male,50.0,1.62,19.05,Urban Resident,59-69,False,19.05
+751793,Male,50.0,1.68,17.72,Farmer,79-89,False,17.72
+758102,Female,50.0,1.5,22.22,Others,69-79,False,22.22
+830368,Female,55.0,1.5,24.44,Farmer,59-69,False,24.44
+860169,Female,49.0,1.55,20.4,Urban Resident,69-79,False,20.4
+820333,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+740775,Male,64.0,1.75,20.9,Urban Resident,69-79,False,20.9
+864249,Female,88.0,1.5,39.11,Urban Resident,79-89,False,39.11
+782683,Male,65.0,1.65,23.88,Urban Resident,59-69,False,23.88
+744183,Male,55.0,1.7,19.03,Urban Resident,79-89,False,19.03
+781696,Female,67.0,1.59,26.5,Urban Resident,69-79,False,26.5
+784944,Female,41.0,1.6,16.02,Others,59-69,False,16.02
+781008,Male,82.0,1.68,29.05,Urban Resident,59-69,False,29.05
+851178,Female,47.5,1.51,20.83,Urban Resident,59-69,False,20.83
+824639,Female,42.0,1.6,16.41,Worker,59-69,False,16.41
+831184,Female,82.5,1.62,31.44,Urban Resident,21-29,False,31.44
+817678,Female,42.0,1.52,18.18,Urban Resident,89-110,False,18.18
+746935,Female,42.0,1.48,19.17,Urban Resident,79-89,False,19.17
+823427,Female,53.0,1.58,21.23,Urban Resident,69-79,False,21.23
+808317,Female,48.0,1.58,19.23,Urban Resident,79-89,False,19.23
+807249,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+743043,Female,59.0,1.62,22.48,Urban Resident,69-79,False,22.48
+739128,Female,55.0,1.54,23.19,Urban Resident,69-79,False,23.19
+863326,Female,48.5,1.48,22.14,Urban Resident,79-89,False,22.14
+774759,Female,53.0,1.48,24.2,Urban Resident,69-79,False,24.2
+732727,Female,55.0,1.5,24.44,Urban Resident,79-89,False,24.44
+755423,Female,42.0,1.4,21.43,Urban Resident,79-89,False,21.43
+765190,Female,62.0,1.5,27.56,Urban Resident,69-79,False,27.56
+765445,Female,38.0,1.5,16.89,Urban Resident,69-79,False,16.89
+789677,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+860948,Male,49.0,1.66,17.78,Urban Resident,49-59,False,17.78
+867392,Male,49.0,1.62,18.67,Urban Resident,79-89,False,18.67
+747768,Female,45.0,1.55,18.73,Urban Resident,59-69,False,18.73
+781712,Male,51.0,1.68,18.07,Urban Resident,69-79,False,18.07
+730841,Female,50.0,1.53,21.36,Urban Resident,79-89,False,21.36
+849307,Female,55.0,1.55,22.89,Urban Resident,59-69,False,22.89
+829117,Female,48.0,1.57,19.47,Urban Resident,79-89,False,19.47
+764976,Male,60.0,1.6,23.44,Others,69-79,False,23.44
+821768,Male,115.0,1.75,37.55,Urban Resident,59-69,False,37.55
+790988,Female,42.0,1.5,18.67,Urban Resident,69-79,False,18.67
+866871,Male,49.0,1.64,18.22,Urban Resident,59-69,False,18.22
+866135,Female,49.0,1.5,21.78,Worker,79-89,False,21.78
+789715,Female,75.0,1.6,29.3,Urban Resident,79-89,False,29.3
+846474,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+785559,Female,52.0,1.54,21.93,Urban Resident,79-89,False,21.93
+807673,Female,55.0,1.5,24.44,Urban Resident,79-89,False,24.44
+807955,Male,50.0,1.55,20.81,Farmer,59-69,False,20.81
+736141,Female,30.0,1.42,,Others,79-89,False,14.88
+749668,Female,45.5,1.5,20.22,Urban Resident,69-79,False,20.22
+792583,Male,55.0,1.63,20.7,Urban Resident,59-69,False,20.7
+777970,Female,52.0,1.6,20.31,Farmer,69-79,False,20.31
+803592,Male,65.0,1.64,24.17,Farmer,69-79,False,24.17
+730900,Female,50.0,1.54,21.08,Urban Resident,69-79,False,21.08
+810161,Female,63.0,1.55,26.22,Urban Resident,79-89,False,26.22
+783629,Female,58.5,1.49,26.35,Urban Resident,69-79,False,26.35
+801945,Male,60.0,1.68,21.26,Urban Resident,79-89,False,21.26
+844423,Male,47.5,1.53,20.29,Urban Resident,59-69,False,20.29
+732424,Male,80.0,1.7,27.68,Urban Resident,69-79,False,27.68
+803906,Male,95.0,1.72,32.11,Urban Resident,49-59,False,32.11
+744706,Male,60.0,1.6,23.44,Others,79-89,False,23.44
+736288,Female,42.0,1.48,19.17,Farmer,59-69,False,19.17
+777858,Female,48.0,1.58,19.23,Urban Resident,79-89,False,19.23
+826079,Male,55.0,1.6,21.48,Urban Resident,59-69,False,21.48
+829569,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+760408,Female,55.0,1.6,21.48,Others,79-89,False,21.48
+770270,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+732792,Female,40.0,1.48,18.26,Farmer,89-110,False,18.26
+769922,Male,52.0,1.58,20.83,Urban Resident,59-69,False,20.83
+780166,Female,61.0,1.53,26.06,Urban Resident,69-79,False,26.06
+868892,Female,49.0,1.62,18.67,Urban Resident,79-89,False,18.67
+789038,Female,50.0,1.55,20.81,Urban Resident,59-69,False,20.81
+807688,Female,55.0,1.6,21.48,Urban Resident,49-59,False,21.48
+830727,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+757677,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+849063,Female,53.0,1.2,36.81,Urban Resident,79-89,False,36.81
+755796,Female,68.0,1.51,29.82,Urban Resident,49-59,False,29.82
+813847,Female,38.0,1.56,15.61,Urban Resident,39-49,False,15.61
+827471,Female,40.0,1.42,19.84,Urban Resident,69-79,False,19.84
+799515,Female,35.0,1.55,,Urban Resident,79-89,False,14.57
+730098,Male,65.0,1.6,25.39,Urban Resident,89-110,False,25.39
+856734,Female,49.5,1.58,19.83,Urban Resident,59-69,False,19.83
+829501,Female,50.0,1.46,23.46,Urban Resident,69-79,False,23.46
+854012,Female,48.5,1.55,20.19,Urban Resident,49-59,False,20.19
+848740,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+800659,Male,48.0,1.56,19.72,Urban Resident,69-79,False,19.72
+850250,Female,48.0,1.55,19.98,Urban Resident,79-89,False,19.98
+735835,Female,43.0,1.5,19.11,Urban Resident,79-89,False,19.11
+743698,Female,54.0,1.5,24.0,Urban Resident,29-39,False,24.0
+793593,Male,60.0,1.65,22.04,Farmer,69-79,False,22.04
+795921,Female,49.5,1.56,20.34,Urban Resident,69-79,False,20.34
+788539,Female,55.0,1.55,22.89,Urban Resident,69-79,False,22.89
+731442,Female,38.0,1.5,16.89,Urban Resident,69-79,False,16.89
+821560,Male,75.0,1.66,27.22,Urban Resident,69-79,False,27.22
+745451,Male,68.0,1.6,26.56,Urban Resident,69-79,False,26.56
+802322,Male,55.0,1.68,19.49,Urban Resident,59-69,False,19.49
+785960,Female,35.0,1.4,17.86,Urban Resident,69-79,False,17.86
+785196,Female,45.0,1.48,20.54,Urban Resident,69-79,False,20.54
+860367,Female,47.0,1.54,19.82,Urban Resident,79-89,False,19.82
+779485,Male,84.0,1.66,30.48,Urban Resident,59-69,False,30.48
+738528,Male,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+807242,Female,51.0,1.4,26.02,Urban Resident,79-89,False,26.02
+779971,Female,45.0,1.53,19.22,Urban Resident,69-79,False,19.22
+863081,Male,48.0,1.53,20.5,Urban Resident,89-110,False,20.5
+792496,Male,55.0,1.7,19.03,Urban Resident,59-69,False,19.03
+729795,Female,75.0,1.55,31.22,Urban Resident,69-79,False,31.22
+727788,Female,68.0,1.65,24.98,Farmer,69-79,False,24.98
+757564,Male,64.0,1.64,23.8,Urban Resident,79-89,False,23.8
+797195,Female,42.0,1.55,17.48,Urban Resident,69-79,False,17.48
+737433,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+799154,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+729143,Male,60.0,1.62,22.86,Farmer,79-89,False,22.86
+846200,Female,49.0,1.47,22.68,Others,69-79,False,22.68
+804126,Female,60.0,1.56,24.65,Urban Resident,59-69,False,24.65
+742069,Female,45.0,1.49,20.27,Urban Resident,59-69,False,20.27
+784311,Male,59.0,1.58,23.63,Urban Resident,89-110,False,23.63
+832900,Male,48.0,1.72,16.22,Urban Resident,89-110,False,16.22
+792318,Male,75.0,1.7,25.95,Urban Resident,69-79,False,25.95
+826375,Female,38.0,1.46,17.83,Urban Resident,69-79,False,17.83
+832535,Male,55.0,1.65,20.2,Urban Resident,69-79,False,20.2
+812145,Female,50.0,1.55,20.81,Urban Resident,69-79,False,20.81
+741143,Male,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+757738,Female,40.0,1.51,17.54,Urban Resident,69-79,False,17.54
+828959,Male,65.0,1.65,23.88,Urban Resident,69-79,False,23.88
+773077,Female,50.0,1.62,19.05,Urban Resident,59-69,False,19.05
+754231,Female,60.0,1.56,24.65,Urban Resident,69-79,False,24.65
+729580,Male,54.0,1.59,21.36,Urban Resident,69-79,False,21.36
+867235,Male,49.5,1.68,17.54,Others,79-89,False,17.54
+859666,Female,47.0,1.4,23.98,Urban Resident,79-89,False,23.98
+831625,Female,65.0,1.55,27.06,Urban Resident,89-110,False,27.06
+787814,Female,40.0,1.56,16.44,Urban Resident,39-49,False,16.44
+854580,Male,47.5,1.58,19.03,Urban Resident,69-79,False,19.03
+802304,Female,60.0,1.56,24.65,Farmer,69-79,False,24.65
+803770,Female,44.0,1.55,18.31,Urban Resident,79-89,False,18.31
+739573,Female,42.0,1.5,18.67,Farmer,79-89,False,18.67
+771080,Female,50.0,1.58,20.03,Urban Resident,59-69,False,20.03
+820734,Male,70.0,1.7,24.22,Unknown,49-59,False,24.22
+865819,Male,49.0,1.7,16.96,Urban Resident,49-59,False,16.96
+744693,Male,52.0,1.69,18.21,Urban Resident,79-89,False,18.21
+833791,Female,35.0,1.45,16.65,Urban Resident,79-89,False,16.65
+821499,Male,70.0,1.7,24.22,Urban Resident,49-59,False,24.22
+851671,Female,46.0,1.43,22.49,Urban Resident,59-69,False,22.49
+761974,Male,62.0,1.65,22.77,Urban Resident,59-69,False,22.77
+796945,Female,36.0,1.4,18.37,Urban Resident,89-110,False,18.37
+778912,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+799371,Female,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
+814558,Male,55.0,1.75,17.96,Unknown,59-69,False,17.96
+819165,Male,55.0,1.75,17.96,Unknown,59-69,False,17.96
+827204,Male,55.0,1.75,17.96,Unknown,59-69,False,17.96
+851326,Male,49.0,1.75,16.0,Urban Resident,59-69,False,16.0
+725910,Female,50.0,1.58,20.03,Urban Resident,69-79,False,20.03
+748443,Female,39.0,1.5,17.33,Urban Resident,79-89,False,17.33
+795954,Female,59.5,1.53,25.42,Urban Resident,79-89,False,25.42
+853683,Female,48.5,1.45,23.07,Urban Resident,79-89,False,23.07
+801592,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+853453,Female,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+831234,Male,50.0,1.6,19.53,Urban Resident,69-79,False,19.53
+856881,Female,49.0,1.5,21.78,Urban Resident,69-79,False,21.78
+865886,Female,49.0,1.48,22.37,Urban Resident,69-79,False,22.37
+809342,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+832341,Female,55.0,1.45,26.16,Urban Resident,69-79,False,26.16
+746487,Female,45.0,1.5,20.0,Farmer,69-79,False,20.0
+775628,Male,77.0,1.68,27.28,Urban Resident,79-89,False,27.28
+784970,Female,41.0,1.5,18.22,Urban Resident,59-69,False,18.22
+863059,Female,49.5,1.5,22.0,Farmer,69-79,False,22.0
+825989,Female,65.0,1.6,25.39,Urban Resident,69-79,False,25.39
+852273,Female,46.0,1.55,19.15,Urban Resident,59-69,False,19.15
+837061,Female,48.5,1.45,23.07,Urban Resident,79-89,False,23.07
+864183,Female,47.0,1.55,19.56,Urban Resident,59-69,False,19.56
+821846,Male,53.0,1.6,20.7,Urban Resident,69-79,False,20.7
+789866,Male,50.0,1.7,17.3,Urban Resident,59-69,False,17.3
+739187,Female,60.0,1.48,27.39,Urban Resident,69-79,False,27.39
+726943,Female,45.0,1.55,18.73,Farmer,69-79,False,18.73
+740494,Male,62.5,1.72,21.13,Urban Resident,79-89,False,21.13
+816440,Female,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+803641,Female,78.0,1.6,30.47,Urban Resident,49-59,False,30.47
+765343,Male,45.0,1.65,16.53,Others,79-89,False,16.53
+836826,Male,55.0,1.7,19.03,Farmer,69-79,False,19.03
+836569,Female,35.0,1.5,15.56,Urban Resident,49-59,False,15.56
+779848,Female,36.0,1.45,17.12,Urban Resident,69-79,False,17.12
+761822,Male,74.0,1.7,25.61,Urban Resident,79-89,False,25.61
+778958,Male,50.0,1.62,19.05,Urban Resident,69-79,False,19.05
+833857,Female,42.0,1.5,18.67,Urban Resident,89-110,False,18.67
+824564,Male,70.0,1.65,25.71,Urban Resident,49-59,False,25.71
+812653,Male,55.0,1.7,19.03,Urban Resident,59-69,False,19.03
+814415,Male,48.0,1.65,17.63,Urban Resident,89-110,False,17.63
+860246,Female,47.5,1.5,21.11,Urban Resident,59-69,False,21.11
+827193,Male,60.0,1.5,26.67,Urban Resident,59-69,False,26.67
+800421,Male,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+799605,Female,65.0,1.56,26.71,Urban Resident,69-79,False,26.71
+786783,Female,53.0,1.5,23.56,Urban Resident,89-110,False,23.56
+770137,Female,40.0,1.6,15.62,Farmer,69-79,False,15.62
+726418,Male,80.0,1.7,27.68,Urban Resident,69-79,False,27.68
+838794,Female,49.0,1.6,19.14,Urban Resident,59-69,False,19.14
+740278,Female,55.0,1.56,22.6,Urban Resident,59-69,False,22.6
+760934,Male,59.0,1.6,23.05,Urban Resident,69-79,False,23.05
+745986,Female,50.0,1.5,22.22,Farmer,69-79,False,22.22
+804262,Male,40.0,1.65,,Urban Resident,69-79,False,14.69
+768627,Male,65.0,1.65,23.88,Urban Resident,59-69,False,23.88
+806025,Male,42.0,1.52,18.18,Urban Resident,69-79,False,18.18
+826708,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+831436,Male,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+780313,Female,36.0,1.5,16.0,Urban Resident,69-79,False,16.0
+734408,Female,42.0,1.5,18.67,Urban Resident,79-89,False,18.67
+745004,Male,56.0,1.6,21.87,Farmer,79-89,False,21.88
+780212,Male,60.0,1.65,22.04,Urban Resident,69-79,False,22.04
+731472,Female,45.0,1.58,18.03,Urban Resident,79-89,False,18.03
+801575,Female,50.0,1.56,20.55,Urban Resident,79-89,False,20.55
+807994,Male,65.0,1.67,23.31,Urban Resident,79-89,False,23.31
+857036,Female,47.5,1.56,19.52,Urban Resident,79-89,False,19.52
+817601,Male,70.0,1.65,25.71,Urban Resident,59-69,False,25.71
+780543,Female,42.0,1.56,17.26,Urban Resident,69-79,False,17.26
+835198,Male,41.0,1.72,,Urban Resident,69-79,False,13.86
+857705,Male,47.5,1.7,16.44,Urban Resident,69-79,False,16.44
+833118,Female,44.0,1.58,17.63,Urban Resident,59-69,False,17.63
+812256,Male,55.0,1.65,20.2,Urban Resident,79-89,False,20.2
+796478,Male,80.0,1.6,31.25,Urban Resident,39-49,False,31.25
+761934,Female,40.0,1.58,16.02,Urban Resident,79-89,False,16.02
+809338,Male,50.0,1.68,17.72,Urban Resident,79-89,False,17.72
+835988,Female,48.5,1.53,20.72,Farmer,49-59,False,20.72
+780982,Female,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+841896,Male,48.5,1.65,17.81,Urban Resident,49-59,False,17.81
+800427,Female,42.0,1.55,17.48,Urban Resident,79-89,False,17.48
+773028,Male,71.0,1.71,24.28,Urban Resident,49-59,False,24.28
+798882,Female,45.0,1.45,21.4,Urban Resident,79-89,False,21.4
+801519,Female,41.0,1.45,19.5,Urban Resident,79-89,False,19.5
+832681,Male,50.0,1.55,20.81,Unknown,69-79,False,20.81
+817920,Male,51.0,1.55,21.23,Unknown,69-79,False,21.23
+803405,Male,50.0,1.7,17.3,Urban Resident,59-69,False,17.3
+761989,Female,45.0,1.52,19.48,Urban Resident,79-89,False,19.48
+785957,Female,50.0,1.5,22.22,Urban Resident,89-110,False,22.22
+789354,Female,42.0,1.5,18.67,Urban Resident,79-89,False,18.67
+805555,Female,46.0,1.46,21.58,Urban Resident,59-69,False,21.58
+800700,Male,45.0,1.55,18.73,Urban Resident,89-110,False,18.73
+734273,Female,42.0,1.55,17.48,Urban Resident,49-59,False,17.48
+834979,Female,44.0,1.55,18.31,Urban Resident,59-69,False,18.31
+833694,Male,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+758866,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+803219,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+859969,Female,49.0,1.43,23.96,Urban Resident,39-49,False,23.96
+752305,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+830832,Female,47.0,1.5,20.89,Urban Resident,79-89,False,20.89
+774448,Female,45.0,1.6,17.58,Urban Resident,69-79,False,17.58
+812856,Female,60.0,1.48,27.39,Urban Resident,69-79,False,27.39
+830009,Male,55.0,1.58,22.03,Urban Resident,79-89,False,22.03
+739403,Female,46.0,1.55,19.15,Urban Resident,39-49,False,19.15
+739415,Female,50.0,1.56,20.55,Urban Resident,79-89,False,20.55
+777533,Male,45.0,1.65,16.53,Urban Resident,69-79,False,16.53
+837966,Female,49.0,1.5,21.78,Urban Resident,69-79,False,21.78
+825231,Female,45.0,1.38,23.63,Urban Resident,79-89,False,23.63
+832154,Male,55.0,1.65,20.2,Urban Resident,59-69,False,20.2
+765396,Female,60.0,1.56,24.65,Urban Resident,79-89,False,24.65
+869243,Female,48.5,1.45,23.07,Urban Resident,79-89,False,23.07
+773313,Male,58.0,1.68,20.55,Urban Resident,79-89,False,20.55
+814048,Male,59.0,1.6,23.05,Urban Resident,59-69,False,23.05
+827372,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+833271,Female,48.0,1.55,19.98,Urban Resident,59-69,False,19.98
+794476,Female,45.0,1.42,22.32,Others,79-89,False,22.32
+764959,Male,52.0,1.64,19.33,Urban Resident,69-79,False,19.33
+802586,Female,45.0,1.52,19.48,Farmer,79-89,False,19.48
+778820,Female,45.0,1.64,16.73,Urban Resident,69-79,False,16.73
+772987,Female,46.5,1.58,18.63,Urban Resident,21-29,False,18.63
+741318,Male,60.0,1.6,23.44,Farmer,69-79,False,23.44
+774652,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+739173,Female,52.0,1.52,22.51,Others,49-59,False,22.51
+828945,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+861489,Female,49.0,1.5,21.78,Urban Resident,39-49,False,21.78
+798994,Male,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+776879,Female,32.0,1.55,,Farmer,59-69,False,13.32
+744531,Male,50.0,1.64,18.59,Urban Resident,69-79,False,18.59
+756843,Female,45.0,1.53,19.22,Farmer,49-59,False,19.22
+746519,Female,55.0,1.58,22.03,Urban Resident,69-79,False,22.03
+757288,Male,70.0,1.6,27.34,Urban Resident,69-79,False,27.34
+770406,Female,40.0,1.53,17.09,Urban Resident,69-79,False,17.09
+780247,Female,65.0,1.68,23.03,Urban Resident,69-79,False,23.03
+743278,Male,43.0,1.5,19.11,Urban Resident,59-69,False,19.11
+816228,Female,49.5,1.6,19.34,Farmer,69-79,False,19.34
+844736,Male,60.0,1.59,23.73,Urban Resident,49-59,False,23.73
+814966,Male,48.0,1.62,18.29,Urban Resident,69-79,False,18.29
+863281,Male,60.0,1.56,24.65,Urban Resident,69-79,False,24.65
+775639,Female,42.0,1.44,20.25,Urban Resident,69-79,False,20.25
+791017,Female,48.5,1.5,21.56,Urban Resident,69-79,False,21.56
+840567,Male,48.5,1.6,18.95,Farmer,59-69,False,18.95
+838987,Female,49.0,1.58,19.63,Urban Resident,59-69,False,19.63
+851611,Male,57.0,1.4,29.08,Urban Resident,69-79,False,29.08
+810379,Female,46.5,1.55,19.35,Urban Resident,59-69,False,19.35
+756619,Female,65.0,1.55,27.06,Farmer,69-79,False,27.06
+793811,Female,40.0,1.4,20.41,Urban Resident,59-69,False,20.41
+786568,Female,55.0,1.5,24.44,Others,89-110,False,24.44
+789255,Female,51.0,1.5,22.67,Urban Resident,79-89,False,22.67
+801011,Female,65.0,1.7,22.49,Urban Resident,59-69,False,22.49
+753262,Male,49.0,1.66,17.78,Urban Resident,69-79,False,17.78
+787809,Male,48.5,1.5,21.56,Urban Resident,69-79,False,21.56
+840550,Female,46.0,1.55,19.15,Urban Resident,79-89,False,19.15
+797666,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+736827,Female,60.0,1.5,26.67,Urban Resident,69-79,False,26.67
+732244,Female,48.0,1.58,19.23,Urban Resident,79-89,False,19.23
+746375,Male,60.0,1.5,26.67,Urban Resident,69-79,False,26.67
+813275,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+799530,Female,55.0,1.5,24.44,Urban Resident,59-69,False,24.44
+732216,Female,60.0,1.6,23.44,Urban Resident,49-59,False,23.44
+766536,Male,34.0,1.45,16.17,Urban Resident,69-79,False,16.17
+817905,Female,47.5,1.5,21.11,Farmer,79-89,False,21.11
+841263,Female,46.0,1.6,17.97,Urban Resident,69-79,False,17.97
+724385,Male,49.0,1.56,20.13,Urban Resident,69-79,False,20.13
+839952,Female,70.0,1.7,24.22,Urban Resident,59-69,False,24.22
+738153,Male,53.0,1.62,20.2,Others,49-59,False,20.2
+816185,Male,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+751256,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+823223,Female,47.5,1.5,21.11,Urban Resident,49-59,False,21.11
+865742,Female,43.0,1.48,19.63,Urban Resident,69-79,False,19.63
+827576,Female,48.5,1.68,17.18,Urban Resident,69-79,False,17.18
+847584,Male,40.0,1.45,19.02,Urban Resident,69-79,False,19.02
+794681,Female,49.0,1.6,19.14,Urban Resident,59-69,False,19.14
+836877,Female,50.0,1.65,18.37,Urban Resident,79-89,False,18.37
+828678,Male,62.0,1.6,24.22,Unknown,69-79,False,24.22
+796480,Male,60.0,1.65,22.04,Farmer,69-79,False,22.04
+817591,Male,70.0,1.68,24.8,Urban Resident,69-79,False,24.8
+771460,Male,49.0,1.54,20.66,Urban Resident,59-69,False,20.66
+869267,Female,43.0,1.55,17.9,Others,69-79,False,17.9
+795781,Female,49.0,1.55,20.4,Urban Resident,59-69,False,20.4
+811783,Female,58.0,1.54,24.46,Urban Resident,79-89,False,24.46
+788528,Female,49.0,1.7,16.96,Farmer,59-69,False,16.96
+861125,Male,40.0,1.45,19.02,Urban Resident,59-69,False,19.02
+818003,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+725815,Female,52.0,1.62,19.81,Urban Resident,59-69,False,19.81
+817964,Male,47.5,1.55,19.77,Urban Resident,79-89,False,19.77
+846158,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+794740,Female,55.0,1.57,22.31,Urban Resident,69-79,False,22.31
+748025,Female,44.0,1.55,18.31,Urban Resident,49-59,False,18.31
+788372,Female,45.0,1.5,20.0,Urban Resident,59-69,False,20.0
+810604,Female,50.0,1.55,20.81,Unknown,89-110,False,20.81
+777934,Male,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+831603,Female,70.0,1.45,33.29,Urban Resident,89-110,False,33.29
+816358,Female,49.0,1.5,21.78,Urban Resident,69-79,False,21.78
+735414,Female,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+798220,Female,60.0,1.58,24.03,Urban Resident,69-79,False,24.03
+829332,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+749038,Female,47.5,1.48,21.69,Others,79-89,False,21.69
+863656,Female,51.0,1.5,22.67,Urban Resident,69-79,False,22.67
+834546,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+833216,Female,60.0,1.5,26.67,Urban Resident,79-89,False,26.67
+799145,Female,35.0,1.5,15.56,Urban Resident,69-79,False,15.56
+781648,Female,40.0,1.5,17.78,Urban Resident,49-59,False,17.78
+773722,Male,60.0,1.68,21.26,Urban Resident,69-79,False,21.26
+829108,Male,45.0,1.58,18.03,Urban Resident,79-89,False,18.03
+759672,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+809274,Female,48.0,1.5,21.33,Officer,59-69,False,21.33
+861450,Female,48.0,1.45,22.83,Urban Resident,79-89,False,22.83
+870258,Female,40.0,1.5,17.78,Urban Resident,89-110,False,17.78
+744206,Female,60.0,1.71,20.52,Farmer,79-89,False,20.52
+779742,Male,56.0,1.57,22.72,Urban Resident,79-89,False,22.72
+778059,Female,45.0,1.58,18.03,Urban Resident,79-89,False,18.03
+756420,Female,46.0,1.55,19.15,Farmer,69-79,False,19.15
+829366,Female,50.0,1.65,18.37,Farmer,69-79,False,18.37
+767282,Male,50.0,1.45,23.78,Urban Resident,69-79,False,23.78
+807856,Female,47.0,1.7,16.26,Urban Resident,69-79,False,16.26
+838577,Male,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+741476,Female,49.0,1.6,19.14,Urban Resident,79-89,False,19.14
+847021,Male,75.0,1.52,32.46,Farmer,29-39,False,32.46
+795289,Female,48.5,1.6,18.95,Urban Resident,79-89,False,18.95
+859121,Male,60.0,1.62,22.86,Urban Resident,79-89,False,22.86
+769863,Male,45.0,1.53,19.22,Farmer,69-79,False,19.22
+786087,Female,48.0,1.52,20.78,Urban Resident,79-89,False,20.78
+850686,Female,64.0,1.75,20.9,Urban Resident,69-79,False,20.9
+781145,Male,49.0,1.5,21.78,Urban Resident,59-69,False,21.78
+849715,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+734101,Female,66.0,1.55,27.47,Urban Resident,59-69,False,27.47
+831377,Male,40.0,1.6,15.62,Urban Resident,69-79,False,15.62
+821445,Female,50.0,1.65,18.37,Urban Resident,59-69,False,18.37
+822437,Female,50.0,1.46,23.46,Urban Resident,79-89,False,23.46
+789851,Female,60.0,1.6,23.44,Farmer,79-89,False,23.44
+787733,Male,65.0,1.65,23.88,Urban Resident,69-79,False,23.88
+785562,Male,48.0,1.6,18.75,Urban Resident,59-69,False,18.75
+848104,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+815191,Female,48.0,1.45,22.83,Urban Resident,79-89,False,22.83
+852141,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+772873,Female,40.0,1.4,20.41,Farmer,69-79,False,20.41
+834316,Female,45.0,1.53,19.22,Urban Resident,79-89,False,19.22
+820402,Female,51.0,1.52,22.07,Urban Resident,79-89,False,22.07
+802271,Female,65.0,1.4,33.16,Urban Resident,79-89,False,33.16
+759975,Female,45.0,1.64,16.73,Urban Resident,89-110,False,16.73
+810319,Female,52.0,1.65,19.1,Urban Resident,69-79,False,19.1
+751016,Male,45.0,1.66,16.33,Urban Resident,79-89,False,16.33
+810396,Male,65.0,1.58,26.04,Farmer,69-79,False,26.04
+789308,Male,55.0,1.65,20.2,Urban Resident,69-79,False,20.2
+799954,Male,49.0,1.65,18.0,Urban Resident,39-49,False,18.0
+859690,Male,47.5,1.7,16.44,Urban Resident,69-79,False,16.44
+839946,Male,73.0,1.6,28.52,Urban Resident,69-79,False,28.52
+743801,Male,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+729846,Female,48.0,1.65,17.63,Farmer,79-89,False,17.63
+848476,Male,45.0,1.5,20.0,Urban Resident,59-69,False,20.0
+827580,Female,45.0,1.65,16.53,Urban Resident,79-89,False,16.53
+737926,Male,53.0,1.58,21.23,Urban Resident,69-79,False,21.23
+742142,Female,51.0,1.52,22.07,Farmer,79-89,False,22.07
+740128,Female,52.0,1.68,18.42,Urban Resident,59-69,False,18.42
+775739,Male,47.5,1.56,19.52,Urban Resident,79-89,False,19.52
+865107,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+805093,Male,44.0,1.5,19.56,Urban Resident,39-49,False,19.56
+741530,Female,50.0,1.58,20.03,Urban Resident,79-89,False,20.03
+736558,Female,54.0,1.46,25.33,Farmer,79-89,False,25.33
+771678,Female,32.0,1.38,16.8,Urban Resident,69-79,False,16.8
+794598,Female,60.0,1.55,24.97,Urban Resident,49-59,False,24.97
+738255,Female,47.0,1.5,20.89,Urban Resident,49-59,False,20.89
+836224,Female,55.0,1.6,21.48,Urban Resident,79-89,False,21.48
+798060,Female,37.0,1.4,18.88,Urban Resident,49-59,False,18.88
+752220,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+739624,Female,65.0,1.53,27.77,Urban Resident,69-79,False,27.77
+770551,Female,48.0,1.48,21.91,Urban Resident,69-79,False,21.91
+849079,Female,58.0,1.72,19.61,Urban Resident,79-89,False,19.61
+785102,Male,55.0,1.6,21.48,Urban Resident,59-69,False,21.48
+764564,Male,42.0,1.4,21.43,Urban Resident,59-69,False,21.43
+858961,Female,67.0,1.72,22.65,Urban Resident,79-89,False,22.65
+743496,Male,35.0,1.55,,Worker,29-39,False,14.57
+834253,Female,34.0,1.5,15.11,Urban Resident,79-89,False,15.11
+805612,Female,52.0,1.52,22.51,Farmer,59-69,False,22.51
+808130,Female,62.0,1.6,24.22,Urban Resident,69-79,False,24.22
+764036,Female,44.5,1.5,19.78,Others,59-69,False,19.78
+836371,Male,65.0,1.72,21.97,Urban Resident,39-49,False,21.97
+797995,Male,62.0,1.69,21.71,Urban Resident,79-89,False,21.71
+745442,Male,65.0,1.67,23.31,Urban Resident,29-39,False,23.31
+793609,Male,50.0,1.57,20.28,Urban Resident,49-59,False,20.28
+767664,Female,55.0,1.5,24.44,Urban Resident,69-79,False,24.44
+787198,Female,60.0,1.62,22.86,Urban Resident,69-79,False,22.86
+737962,Female,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+746707,Male,45.0,1.55,18.73,Others,59-69,False,18.73
+734474,Female,68.0,1.69,23.81,Farmer,69-79,False,23.81
+729460,Male,30.0,1.4,15.31,Farmer,39-49,False,15.31
+824859,Female,50.0,1.7,17.3,Urban Resident,79-89,False,17.3
+808133,Male,64.0,1.63,24.09,Urban Resident,69-79,False,24.09
+744582,Male,50.0,1.65,18.37,Urban Resident,59-69,False,18.37
+799667,Male,50.0,1.65,18.37,Urban Resident,79-89,False,18.37
+746599,Male,84.0,1.8,25.93,Urban Resident,79-89,False,25.93
+865563,Female,44.0,1.48,20.09,Unknown,69-79,False,20.09
+833670,Female,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+836855,Female,55.0,1.75,17.96,Urban Resident,69-79,False,17.96
+795353,Male,60.0,1.65,22.04,Urban Resident,59-69,False,22.04
+757711,Male,65.0,1.55,27.06,Urban Resident,89-110,False,27.06
+734813,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+824988,Female,58.0,1.64,21.56,Urban Resident,79-89,False,21.56
+762840,Male,49.0,1.5,21.78,Urban Resident,59-69,False,21.78
+839142,Female,49.0,1.58,19.63,Farmer,79-89,False,19.63
+763206,Male,48.0,1.6,18.75,Urban Resident,69-79,False,18.75
+799188,Male,60.0,1.59,23.73,Urban Resident,39-49,False,23.73
+863098,Female,38.0,1.54,16.02,Urban Resident,69-79,False,16.02
+787694,Male,55.0,1.6,21.48,Farmer,59-69,False,21.48
+782694,Female,63.0,1.55,26.22,Urban Resident,69-79,False,26.22
+739619,Female,49.0,1.55,20.4,Urban Resident,69-79,False,20.4
+842218,Female,45.0,1.54,18.97,Urban Resident,79-89,False,18.97
+759844,Female,62.0,1.54,26.14,Farmer,59-69,False,26.14
+741054,Female,65.0,1.78,20.52,Others,59-69,False,20.52
+730284,Male,51.0,1.55,21.23,Urban Resident,79-89,False,21.23
+765627,Male,51.0,1.55,21.23,Urban Resident,79-89,False,21.23
+801003,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+753878,Female,60.0,1.52,25.97,Urban Resident,79-89,False,25.97
+793558,Female,65.0,1.72,21.97,Urban Resident,69-79,False,21.97
+753613,Female,69.0,1.64,25.65,Farmer,59-69,False,25.65
+762205,Male,45.0,1.65,16.53,Urban Resident,69-79,False,16.53
+732084,Male,75.0,1.7,25.95,Urban Resident,79-89,False,25.95
+812475,Male,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+758441,Male,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+729983,Female,49.0,1.7,16.96,Urban Resident,79-89,False,16.96
+852088,Male,60.0,1.7,20.76,Urban Resident,49-59,False,20.76
+813438,Female,47.0,1.55,19.56,Others,69-79,False,19.56
+869958,Male,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+819598,Female,80.0,1.68,28.34,Urban Resident,59-69,False,28.34
+822113,Male,63.0,1.59,24.92,Urban Resident,69-79,False,24.92
+773700,Male,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+820204,Female,48.0,1.66,17.42,Urban Resident,69-79,False,17.42
+856493,Male,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+742126,Female,40.0,1.6,15.62,Others,59-69,False,15.62
+825758,Female,60.0,1.7,20.76,Farmer,59-69,False,20.76
+791880,Male,60.0,1.55,24.97,Urban Resident,89-110,False,24.97
+792613,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+807862,Male,49.0,1.6,19.14,Urban Resident,59-69,False,19.14
+860820,Male,54.0,1.64,20.08,Urban Resident,79-89,False,20.08
+752477,Male,62.0,1.62,23.62,Urban Resident,69-79,False,23.62
+735274,Male,70.0,1.7,24.22,Urban Resident,69-79,False,24.22
+810832,Male,72.0,1.55,29.97,Urban Resident,69-79,False,29.97
+751935,Female,72.0,1.5,32.0,Urban Resident,79-89,False,32.0
+749775,Female,60.0,1.58,24.03,Others,69-79,False,24.03
+742960,Male,70.0,1.56,28.76,Urban Resident,49-59,False,28.76
+834911,Female,59.0,1.72,19.94,Urban Resident,59-69,False,19.94
+804069,Male,59.0,1.72,19.94,Urban Resident,79-89,False,19.94
+780515,Female,47.0,1.55,19.56,Urban Resident,69-79,False,19.56
+773799,Male,50.0,1.56,20.55,Urban Resident,79-89,False,20.55
+755233,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+828042,Male,51.0,1.65,18.73,Urban Resident,79-89,False,18.73
+794937,Female,48.0,1.56,19.72,Urban Resident,69-79,False,19.72
+842291,Female,49.0,1.69,17.16,Urban Resident,49-59,False,17.16
+869705,Male,85.0,1.63,31.99,Urban Resident,49-59,False,31.99
+822488,Male,46.0,1.65,16.9,Urban Resident,59-69,False,16.9
+835754,Male,47.5,1.55,19.77,Urban Resident,69-79,False,19.77
+867980,Female,60.0,1.55,24.97,Urban Resident,69-79,False,24.97
+802445,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+805563,Female,47.0,1.53,20.08,Urban Resident,79-89,False,20.08
+865166,Female,58.0,1.6,22.66,Urban Resident,79-89,False,22.66
+794784,Male,49.5,1.65,18.18,Urban Resident,69-79,False,18.18
+863148,Male,60.0,1.65,22.04,Urban Resident,59-69,False,22.04
+756417,Female,47.5,1.65,17.45,Urban Resident,79-89,False,17.45
+866641,Male,54.0,1.5,24.0,Urban Resident,69-79,False,24.0
+758654,Female,60.0,1.65,22.04,Farmer,59-69,False,22.04
+740531,Male,65.0,1.7,22.49,Urban Resident,79-89,False,22.49
+820984,Male,45.0,1.58,18.03,Urban Resident,49-59,False,18.03
+729910,Female,45.0,1.58,18.03,Farmer,69-79,False,18.03
+795692,Female,44.0,1.49,19.82,Urban Resident,59-69,False,19.82
+796434,Female,67.0,1.55,27.89,Urban Resident,69-79,False,27.89
+756563,Female,52.0,1.7,17.99,Urban Resident,79-89,False,17.99
+806617,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+817574,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+865713,Male,47.5,1.7,16.44,Others,79-89,False,16.44
+782485,Male,65.0,1.68,23.03,Urban Resident,69-79,False,23.03
+861817,Female,48.5,1.55,20.19,Urban Resident,79-89,False,20.19
+815803,Female,50.0,1.55,20.81,Farmer,59-69,False,20.81
+756036,Female,59.0,1.57,23.94,Urban Resident,39-49,False,23.94
+856978,Male,48.5,1.56,19.93,Urban Resident,69-79,False,19.93
+748910,Male,65.0,1.66,23.59,Urban Resident,69-79,False,23.59
+837275,Male,70.0,1.73,23.39,Worker,29-39,False,23.39
+791517,Male,45.0,1.6,17.58,Urban Resident,39-49,False,17.58
+856025,Female,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+825278,Female,50.0,1.46,23.46,Urban Resident,79-89,False,23.46
+795498,Female,45.0,1.45,21.4,Urban Resident,69-79,False,21.4
+863622,Male,48.0,1.7,16.61,Urban Resident,59-69,False,16.61
+747510,Male,53.0,1.6,20.7,Others,69-79,False,20.7
+772260,Female,54.0,1.56,22.19,Urban Resident,69-79,False,22.19
+820920,Female,56.0,1.62,21.34,Urban Resident,79-89,False,21.34
+818858,Female,49.0,1.68,17.36,Farmer,79-89,False,17.36
+770003,Male,48.0,1.53,20.5,Urban Resident,69-79,False,20.5
+798132,Male,55.0,1.68,19.49,Urban Resident,69-79,False,19.49
+816812,Female,58.0,1.54,24.46,Urban Resident,69-79,False,24.46
+852904,Female,47.0,1.56,19.31,Urban Resident,39-49,False,19.31
+820239,Male,50.0,1.7,17.3,Urban Resident,69-79,False,17.3
+779519,Male,51.0,1.67,18.29,Urban Resident,39-49,False,18.29
+773281,Female,45.0,1.45,21.4,Urban Resident,69-79,False,21.4
+815851,Male,51.0,1.58,20.43,Urban Resident,59-69,False,20.43
+797002,Male,55.0,1.65,20.2,Urban Resident,79-89,False,20.2
+798983,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+768711,Female,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+866473,Female,36.0,1.45,17.12,Urban Resident,69-79,False,17.12
+825113,Female,55.0,1.6,21.48,Worker,69-79,False,21.48
+866474,Male,49.0,1.65,18.0,Urban Resident,49-59,False,18.0
+866520,Female,40.0,1.53,17.09,Urban Resident,69-79,False,17.09
+813173,Male,53.0,1.51,23.24,Worker,29-39,False,23.24
+789094,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+804843,Female,54.0,1.65,19.83,Urban Resident,39-49,False,19.83
+850176,Female,43.0,1.5,19.11,Urban Resident,79-89,False,19.11
+798133,Female,60.0,1.47,27.77,Urban Resident,69-79,False,27.77
+790929,Female,56.0,1.45,26.63,Others,59-69,False,26.63
+865935,Female,55.0,1.48,25.11,Urban Resident,79-89,False,25.11
+770792,Male,56.0,1.6,21.87,Urban Resident,79-89,False,21.88
+818938,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+752462,Female,43.0,1.53,18.37,Urban Resident,69-79,False,18.37
+734672,Female,56.0,1.56,23.01,Others,69-79,False,23.01
+819977,Female,37.5,1.45,17.84,Urban Resident,79-89,False,17.84
+752772,Female,55.0,1.55,22.89,Farmer,69-79,False,22.89
+828529,Female,55.0,1.75,17.96,Urban Resident,79-89,False,17.96
+866294,Female,48.5,1.5,21.56,Urban Resident,59-69,False,21.56
+784516,Male,60.0,1.6,23.44,Farmer,69-79,False,23.44
+802046,Female,40.0,1.55,16.65,Urban Resident,69-79,False,16.65
+793768,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+867885,Male,48.0,1.68,17.01,Others,59-69,False,17.01
+861979,Female,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+773604,Female,41.0,1.56,16.85,Urban Resident,79-89,False,16.85
+811076,Male,45.0,1.68,15.94,Urban Resident,59-69,False,15.94
+740062,Female,44.0,1.4,22.45,Farmer,79-89,False,22.45
+745777,Female,45.0,1.5,20.0,Others,79-89,False,20.0
+825298,Female,35.0,1.55,,Urban Resident,69-79,False,14.57
+770965,Male,60.0,1.7,20.76,Urban Resident,69-79,False,20.76
+869314,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+789694,Male,50.0,1.6,19.53,Urban Resident,59-69,False,19.53
+762878,Female,68.0,1.55,28.3,Urban Resident,79-89,False,28.3
+807402,Female,60.0,1.56,24.65,Urban Resident,69-79,False,24.65
+868748,Female,46.5,1.5,20.67,Urban Resident,79-89,False,20.67
+737842,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+863168,Male,47.5,1.7,16.44,Urban Resident,89-110,False,16.44
+766457,Female,50.0,1.65,18.37,Urban Resident,69-79,False,18.37
+833068,Female,33.0,1.5,,Urban Resident,49-59,False,14.67
+864584,Male,49.0,1.63,18.44,Urban Resident,79-89,False,18.44
+864040,Male,48.0,1.7,16.61,Urban Resident,59-69,False,16.61
+782121,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+863233,Female,48.5,1.5,21.56,Urban Resident,59-69,False,21.56
+736222,Female,48.0,1.5,21.33,Others,79-89,False,21.33
+820579,Male,50.0,1.55,20.81,Farmer,59-69,False,20.81
+754836,Male,45.0,1.58,18.03,Farmer,79-89,False,18.03
+802000,Female,62.0,1.5,27.56,Urban Resident,79-89,False,27.56
+857381,Male,47.5,1.6,18.55,Urban Resident,79-89,False,18.55
+831344,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+780976,Female,48.0,1.42,23.8,Urban Resident,79-89,False,23.8
+795361,Male,77.5,1.58,31.04,Urban Resident,89-110,False,31.04
+860847,Female,48.5,1.5,21.56,Urban Resident,79-89,False,21.56
+856372,Female,48.0,1.5,21.33,Urban Resident,69-79,False,21.33
+752868,Female,64.0,1.58,25.64,Urban Resident,69-79,False,25.64
+745198,Male,45.0,1.58,18.03,Urban Resident,69-79,False,18.03
+749015,Female,40.0,1.55,16.65,Urban Resident,79-89,False,16.65
+769791,Female,45.0,1.56,18.49,Urban Resident,69-79,False,18.49
+831820,Female,49.0,1.6,19.14,Urban Resident,69-79,False,19.14
+816658,Female,69.0,1.45,32.82,Urban Resident,69-79,False,32.82
+800403,Female,60.0,1.52,25.97,Urban Resident,79-89,False,25.97
+815415,Female,50.0,1.62,19.05,Urban Resident,59-69,False,19.05
+756179,Male,42.0,1.6,16.41,Farmer,69-79,False,16.41
+798084,Female,33.0,1.45,15.7,Urban Resident,89-110,False,15.7
+839579,Male,49.5,1.79,15.45,Urban Resident,69-79,False,15.45
+833841,Male,60.0,1.65,22.04,Worker,69-79,False,22.04
+767532,Male,61.0,1.61,23.53,Urban Resident,69-79,False,23.53
+743033,Female,61.0,1.6,23.83,Urban Resident,89-110,False,23.83
+817918,Female,55.0,1.48,25.11,Urban Resident,79-89,False,25.11
+810186,Male,60.0,1.63,22.58,Urban Resident,69-79,False,22.58
+726938,Female,40.0,1.57,16.23,Farmer,69-79,False,16.23
+775387,Female,55.0,1.55,22.89,Urban Resident,59-69,False,22.89
+853406,Female,42.0,1.45,19.98,Urban Resident,79-89,False,19.98
+770777,Female,52.0,1.58,20.83,Farmer,79-89,False,20.83
+755943,Male,80.0,1.68,28.34,Urban Resident,79-89,False,28.34
+736116,Female,70.0,1.52,30.3,Urban Resident,69-79,False,30.3
+787836,Male,75.0,1.7,25.95,Urban Resident,39-49,False,25.95
+800457,Female,55.0,1.5,24.44,Urban Resident,59-69,False,24.44
+822524,Male,44.0,1.64,16.36,Urban Resident,59-69,False,16.36
+766692,Female,35.0,1.5,15.56,Urban Resident,59-69,False,15.56
+851858,Female,49.0,1.58,19.63,Urban Resident,59-69,False,19.63
+823038,Female,60.0,1.56,24.65,Urban Resident,69-79,False,24.65
+862739,Male,47.0,1.72,15.89,Urban Resident,69-79,False,15.89
+812102,Female,43.0,1.45,20.45,Urban Resident,79-89,False,20.45
+832159,Male,92.0,1.76,29.7,Urban Resident,29-39,False,29.7
+810924,Female,42.0,1.75,,Urban Resident,69-79,False,13.71
+810058,Female,47.0,1.54,19.82,Worker,59-69,False,19.82
+744459,Male,52.0,1.66,18.87,Urban Resident,79-89,False,18.87
+772931,Male,46.0,1.7,15.92,Urban Resident,69-79,False,15.92
+785477,Female,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+869257,Female,49.0,1.5,21.78,Urban Resident,79-89,False,21.78
+757333,Male,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+791308,Female,48.0,1.52,20.78,Urban Resident,69-79,False,20.78
+726780,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+784471,Female,40.0,1.4,20.41,Urban Resident,69-79,False,20.41
+783249,Female,38.0,1.4,19.39,Urban Resident,89-110,False,19.39
+824513,Female,35.0,1.4,17.86,Urban Resident,69-79,False,17.86
+826446,Female,35.0,1.5,15.56,Urban Resident,69-79,False,15.56
+815969,Male,61.0,1.59,24.13,Urban Resident,79-89,False,24.13
+849266,Male,46.5,1.68,16.48,Urban Resident,69-79,False,16.48
+858068,Female,49.0,1.53,20.93,Urban Resident,89-110,False,20.93
+802827,Female,40.0,1.5,17.78,Urban Resident,79-89,False,17.78
+836984,Female,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+854186,Female,48.5,1.5,21.56,Urban Resident,79-89,False,21.56
+862875,Female,40.0,1.4,20.41,Others,59-69,False,20.41
+866007,Male,49.5,1.65,18.18,Urban Resident,79-89,False,18.18
+850290,Male,67.0,1.7,23.18,Urban Resident,59-69,False,23.18
+810267,Male,59.0,1.7,20.42,Urban Resident,69-79,False,20.42
+737932,Female,40.0,1.45,19.02,Others,69-79,False,19.02
+867601,Female,58.0,1.48,26.48,Urban Resident,59-69,False,26.48
+841176,Female,49.5,1.5,22.0,Urban Resident,69-79,False,22.0
+751866,Male,55.0,1.66,19.96,Farmer,49-59,False,19.96
+806020,Male,60.0,1.6,23.44,Urban Resident,39-49,False,23.44
+765605,Female,57.0,1.5,25.33,Urban Resident,79-89,False,25.33
+865501,Female,48.5,1.5,21.56,Urban Resident,79-89,False,21.56
+863353,Female,35.0,1.46,16.42,Urban Resident,59-69,False,16.42
+868161,Male,49.5,1.7,17.13,Urban Resident,79-89,False,17.13
+826879,Male,52.0,1.65,19.1,Urban Resident,79-89,False,19.1
+859236,Female,58.0,1.6,22.66,Urban Resident,79-89,False,22.66
+774352,Female,49.0,1.39,25.36,Urban Resident,69-79,False,25.36
+738248,Male,55.0,1.65,20.2,Urban Resident,79-89,False,20.2
+731189,Male,60.0,1.65,22.04,Urban Resident,59-69,False,22.04
+747390,Female,46.0,1.54,19.4,Urban Resident,79-89,False,19.4
+858135,Male,50.0,1.65,18.37,Urban Resident,69-79,False,18.37
+809124,Female,60.0,1.6,23.44,Urban Resident,59-69,False,23.44
+866706,Male,47.5,1.6,18.55,Urban Resident,69-79,False,18.55
+752849,Male,65.0,1.75,21.22,Urban Resident,69-79,False,21.22
+854121,Male,49.0,1.7,16.96,Urban Resident,79-89,False,16.96
+855080,Female,49.5,1.5,22.0,Urban Resident,79-89,False,22.0
+775683,Male,47.0,1.65,17.26,Urban Resident,69-79,False,17.26
+829141,Female,31.0,1.45,,Urban Resident,89-110,False,14.74
+834219,Male,55.0,1.65,20.2,Urban Resident,49-59,False,20.2
+766882,Male,51.0,1.58,20.43,Urban Resident,69-79,False,20.43
+732800,Female,70.0,1.56,28.76,Urban Resident,69-79,False,28.76
+807047,Female,56.0,1.46,26.27,Urban Resident,69-79,False,26.27
+742227,Male,54.0,1.55,22.48,Urban Resident,79-89,False,22.48
+811765,Male,52.0,1.6,20.31,Urban Resident,69-79,False,20.31
+830868,Female,40.0,1.5,17.78,Others,79-89,False,17.78
+819538,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+773152,Female,40.0,1.6,15.62,Urban Resident,69-79,False,15.62
+765103,Female,35.0,1.5,15.56,Urban Resident,79-89,False,15.56
+766820,Male,69.0,1.68,24.45,Urban Resident,39-49,False,24.45
+851708,Male,48.5,1.6,18.95,Farmer,89-110,False,18.95
+839624,Male,48.5,1.6,18.95,Urban Resident,49-59,False,18.95
+739672,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+796834,Male,75.0,1.7,25.95,Urban Resident,79-89,False,25.95
+783949,Male,60.0,1.68,21.26,Urban Resident,69-79,False,21.26
+811809,Male,57.0,1.66,20.69,Officer,69-79,False,20.69
+801954,Female,36.0,1.58,,Urban Resident,69-79,False,14.42
+811150,Male,82.0,1.65,30.12,Urban Resident,69-79,False,30.12
+810913,Female,55.0,1.62,20.96,Urban Resident,89-110,False,20.96
+742228,Female,55.0,1.62,20.96,Urban Resident,79-89,False,20.96
+857850,Female,38.0,1.45,18.07,Urban Resident,69-79,False,18.07
+734121,Male,45.0,1.65,16.53,Urban Resident,79-89,False,16.53
+816754,Female,72.0,1.52,31.16,Farmer,59-69,False,31.16
+810915,Female,52.0,1.56,21.37,Urban Resident,69-79,False,21.37
+832928,Female,40.0,1.38,21.0,Urban Resident,69-79,False,21.0
+771807,Male,62.0,1.65,22.77,Urban Resident,89-110,False,22.77
+793054,Female,57.5,1.5,25.56,Urban Resident,69-79,False,25.56
+797672,Female,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+865953,Female,45.0,1.46,21.11,Urban Resident,69-79,False,21.11
+837883,Female,49.5,1.63,18.63,Urban Resident,69-79,False,18.63
+739577,Female,50.0,1.5,22.22,Farmer,79-89,False,22.22
+794527,Female,55.0,1.5,24.44,Urban Resident,79-89,False,24.44
+740120,Male,50.0,1.57,20.28,Urban Resident,59-69,False,20.28
+783021,Male,60.0,1.73,20.05,Urban Resident,69-79,False,20.05
+793272,Female,44.0,1.5,19.56,Farmer,59-69,False,19.56
+734788,Female,40.0,1.55,16.65,Farmer,49-59,False,16.65
+753570,Male,66.0,1.63,24.84,Urban Resident,59-69,False,24.84
+728235,Female,50.0,1.55,20.81,Farmer,69-79,False,20.81
+788974,Female,68.0,1.56,27.94,Urban Resident,79-89,False,27.94
+781892,Male,75.0,1.55,31.22,Urban Resident,79-89,False,31.22
+733392,Male,54.0,1.52,23.37,Urban Resident,59-69,False,23.37
+731362,Female,46.0,1.56,18.9,Urban Resident,79-89,False,18.9
+788017,Female,40.0,1.44,19.29,Urban Resident,69-79,False,19.29
+829782,Female,60.0,1.45,28.54,Urban Resident,59-69,False,28.54
+807316,Male,60.0,1.68,21.26,Urban Resident,69-79,False,21.26
+858443,Male,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+787726,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+736334,Female,50.0,1.56,20.55,Urban Resident,69-79,False,20.55
+755618,Male,47.0,1.6,18.36,Urban Resident,79-89,False,18.36
+831651,Female,36.0,1.51,15.79,Urban Resident,69-79,False,15.79
+794914,Male,64.0,1.65,23.51,Urban Resident,59-69,False,23.51
+809897,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+847822,Male,49.0,1.63,18.44,Urban Resident,79-89,False,18.44
+831043,Female,55.0,1.55,22.89,Urban Resident,49-59,False,22.89
+754546,Male,68.0,1.68,24.09,Farmer,59-69,False,24.09
+780587,Female,42.5,1.45,20.21,Urban Resident,59-69,False,20.21
+770977,Male,45.0,1.6,17.58,Urban Resident,79-89,False,17.58
+744263,Female,40.0,1.5,17.78,Farmer,79-89,False,17.78
+865270,Male,48.5,1.73,16.21,Urban Resident,59-69,False,16.21
+806289,Female,40.0,1.53,17.09,Urban Resident,69-79,False,17.09
+774776,Female,40.0,1.5,17.78,Urban Resident,59-69,False,17.78
+843309,Male,49.5,1.64,18.4,Farmer,39-49,False,18.4
+837083,Male,47.5,1.6,18.55,Farmer,69-79,False,18.55
+803948,Female,60.0,1.6,23.44,Urban Resident,89-110,False,23.44
+743141,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+783454,Male,51.0,1.64,18.96,Farmer,49-59,False,18.96
+793116,Female,35.0,1.55,,Farmer,79-89,False,14.57
+734777,Male,60.0,1.6,23.44,Farmer,69-79,False,23.44
+823297,Male,55.0,1.75,17.96,Urban Resident,59-69,False,17.96
+743350,Male,58.0,1.52,25.1,Urban Resident,79-89,False,25.1
+774763,Female,55.0,1.55,22.89,Urban Resident,59-69,False,22.89
+744828,Female,45.0,1.5,20.0,Urban Resident,79-89,False,20.0
+763848,Male,53.0,1.55,22.06,Urban Resident,69-79,False,22.06
+860599,Female,49.0,1.55,20.4,Others,79-89,False,20.4
+789667,Female,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+861260,Female,49.5,1.5,22.0,Urban Resident,79-89,False,22.0
+816934,Female,60.0,1.55,24.97,Urban Resident,69-79,False,24.97
+805611,Male,60.0,1.7,20.76,Urban Resident,79-89,False,20.76
+797927,Male,65.0,1.67,23.31,Urban Resident,79-89,False,23.31
+757414,Female,70.0,1.5,31.11,Urban Resident,59-69,False,31.11
+861704,Female,49.5,1.5,22.0,Urban Resident,79-89,False,22.0
+726373,Female,73.0,1.5,32.44,Urban Resident,69-79,False,32.44
+847157,Male,50.0,1.7,17.3,Urban Resident,49-59,False,17.3
+726428,Male,65.0,1.62,24.77,Urban Resident,69-79,False,24.77
+773886,Male,60.0,1.67,21.51,Farmer,59-69,False,21.51
+789682,Female,45.0,1.56,18.49,Urban Resident,69-79,False,18.49
+744018,Female,52.0,1.5,23.11,Others,59-69,False,23.11
+855364,Male,48.5,1.65,17.81,Urban Resident,49-59,False,17.81
+828407,Female,47.0,1.53,20.08,Urban Resident,69-79,False,20.08
+865672,Male,48.0,1.67,17.21,Urban Resident,39-49,False,17.21
+822518,Male,62.5,1.65,22.96,Urban Resident,79-89,False,22.96
+764369,Female,46.0,1.5,20.44,Farmer,79-89,False,20.44
+741731,Female,46.0,1.57,18.66,Urban Resident,69-79,False,18.66
+840472,Male,47.0,1.78,,Urban Resident,79-89,False,14.83
+852340,Male,57.0,1.55,23.73,Urban Resident,59-69,False,23.73
+733983,Male,76.0,1.68,26.93,Urban Resident,59-69,False,26.93
+807802,Female,66.0,1.58,26.44,Urban Resident,69-79,False,26.44
+778740,Female,43.0,1.5,19.11,Urban Resident,89-110,False,19.11
+865149,Male,60.0,1.68,21.26,Others,59-69,False,21.26
+831231,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+746231,Female,60.0,1.55,24.97,Urban Resident,79-89,False,24.97
+854969,Female,35.0,1.4,17.86,Urban Resident,79-89,False,17.86
+828281,Female,35.0,1.48,15.98,Urban Resident,79-89,False,15.98
+732175,Male,80.0,1.72,27.04,Urban Resident,39-49,False,27.04
+753065,Female,45.0,1.55,18.73,Urban Resident,69-79,False,18.73
+812630,Female,33.0,1.48,15.07,Farmer,69-79,False,15.07
+737646,Male,70.0,1.5,31.11,Farmer,59-69,False,31.11
+737462,Male,65.0,1.55,27.06,Urban Resident,49-59,False,27.06
+737365,Male,62.0,1.7,21.45,Urban Resident,79-89,False,21.45
+729083,Female,52.0,1.51,22.81,Urban Resident,69-79,False,22.81
+822670,Female,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+796524,Female,45.0,1.45,21.4,Others,59-69,False,21.4
+802242,Male,55.0,1.68,19.49,Urban Resident,69-79,False,19.49
+761283,Female,39.0,1.5,17.33,Others,59-69,False,17.33
+761654,Male,57.0,1.54,24.03,Urban Resident,69-79,False,24.03
+749778,Male,82.0,1.8,25.31,Urban Resident,79-89,False,25.31
+817871,Female,30.0,1.4,15.31,Urban Resident,69-79,False,15.31
+855773,Female,49.0,1.46,22.99,Urban Resident,69-79,False,22.99
+745485,Female,70.0,1.5,31.11,Urban Resident,59-69,False,31.11
+809541,Male,78.0,1.72,26.37,Urban Resident,69-79,False,26.37
+729704,Male,43.0,1.55,17.9,Urban Resident,69-79,False,17.9
+729068,Male,46.0,1.55,19.15,Urban Resident,21-29,False,19.15
+791660,Female,60.0,1.53,25.63,Others,79-89,False,25.63
+752968,Female,45.0,1.55,18.73,Farmer,69-79,False,18.73
+860041,Male,48.0,1.6,18.75,Urban Resident,79-89,False,18.75
+801381,Female,45.0,1.5,20.0,Urban Resident,69-79,False,20.0
+805880,Male,50.0,1.5,22.22,Unknown,59-69,False,22.22
+805475,Male,50.0,1.69,17.51,Urban Resident,59-69,False,17.51
+812656,Female,46.0,1.56,18.9,Urban Resident,59-69,False,18.9
+779573,Female,60.0,1.6,23.44,Urban Resident,89-110,False,23.44
+863901,Female,49.0,1.5,21.78,Urban Resident,69-79,False,21.78
+765507,Male,68.0,1.65,24.98,Urban Resident,69-79,False,24.98
+730028,Male,65.0,1.7,22.49,Farmer,69-79,False,22.49
+868166,Female,45.5,1.5,20.22,Others,79-89,False,20.22
+815735,Female,65.0,1.55,27.06,Urban Resident,69-79,False,27.06
+834500,Female,44.0,1.56,18.08,Urban Resident,79-89,False,18.08
+828595,Female,45.0,1.56,18.49,Unknown,79-89,False,18.49
+812759,Female,45.0,1.55,18.73,Unknown,79-89,False,18.73
+852240,Female,47.5,1.61,18.32,Urban Resident,69-79,False,18.32
+798458,Female,52.0,1.55,21.64,Urban Resident,69-79,False,21.64
+848832,Male,48.5,1.72,16.39,Urban Resident,79-89,False,16.39
+842846,Female,49.0,1.52,21.21,Urban Resident,79-89,False,21.21
+747320,Female,47.0,1.58,18.83,Farmer,69-79,False,18.83
+795904,Female,55.0,1.6,21.48,Urban Resident,69-79,False,21.48
+866996,Female,48.0,1.4,24.49,Urban Resident,79-89,False,24.49
+846667,Female,48.0,1.48,21.91,Urban Resident,79-89,False,21.91
+808622,Female,33.0,1.4,16.84,Urban Resident,69-79,False,16.84
+790648,Female,57.0,1.55,23.73,Urban Resident,69-79,False,23.73
+859912,Female,45.5,1.45,21.64,Urban Resident,79-89,False,21.64
+744819,Female,50.0,1.58,20.03,Urban Resident,89-110,False,20.03
+791351,Female,48.0,1.55,19.98,Urban Resident,59-69,False,19.98
+736498,Male,55.0,1.54,23.19,Urban Resident,39-49,False,23.19
+738276,Female,53.0,1.5,23.56,Urban Resident,69-79,False,23.56
+838934,Male,46.5,1.6,18.16,Urban Resident,69-79,False,18.16
+737639,Male,55.0,1.67,19.72,Urban Resident,69-79,False,19.72
+741248,Male,62.0,1.65,22.77,Farmer,69-79,False,22.77
+816764,Female,42.0,1.51,18.42,Urban Resident,69-79,False,18.42
+807921,Female,31.5,1.42,15.62,Urban Resident,79-89,False,15.62
+837395,Female,52.0,1.68,18.42,Urban Resident,69-79,False,18.42
+825046,Male,44.0,1.58,17.63,Urban Resident,69-79,False,17.63
+745203,Male,65.0,1.55,27.06,Farmer,79-89,False,27.06
+807093,Male,70.0,1.65,25.71,Urban Resident,39-49,False,25.71
+792214,Female,33.0,1.4,16.84,Urban Resident,79-89,False,16.84
+857717,Female,47.5,1.54,20.03,Urban Resident,69-79,False,20.03
+864327,Male,46.0,1.65,16.9,Urban Resident,79-89,False,16.9
+773035,Female,43.0,1.54,18.13,Urban Resident,79-89,False,18.13
+860602,Male,49.0,1.67,17.57,Urban Resident,59-69,False,17.57
+793094,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+827137,Female,35.0,1.45,16.65,Urban Resident,79-89,False,16.65
+772119,Male,60.0,1.7,20.76,Urban Resident,69-79,False,20.76
+856407,Male,48.5,1.57,19.68,Others,59-69,False,19.68
+736143,Female,50.0,1.5,22.22,Others,59-69,False,22.22
+851657,Female,47.5,1.5,21.11,Urban Resident,69-79,False,21.11
+860022,Female,48.0,1.4,24.49,Urban Resident,59-69,False,24.49
+866745,Female,48.5,1.42,24.05,Urban Resident,69-79,False,24.05
+774663,Male,65.0,1.7,22.49,Urban Resident,69-79,False,22.49
+851534,Female,49.5,1.57,20.08,Others,69-79,False,20.08
+803856,Female,65.0,1.59,25.71,Urban Resident,79-89,False,25.71
+770008,Female,35.0,1.25,22.4,Urban Resident,69-79,False,22.4
+862511,Female,49.0,1.64,18.22,Urban Resident,79-89,False,18.22
+845703,Male,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+839289,Female,46.0,1.58,18.43,Urban Resident,69-79,False,18.43
+823018,Female,52.0,1.55,21.64,Urban Resident,79-89,False,21.64
+835187,Female,45.0,1.5,20.0,Urban Resident,59-69,False,20.0
+859571,Female,48.0,1.55,19.98,Urban Resident,69-79,False,19.98
+828982,Female,55.0,1.6,21.48,Urban Resident,89-110,False,21.48
+833436,Male,60.0,1.65,22.04,Urban Resident,69-79,False,22.04
+786843,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+838532,Male,45.5,1.63,17.13,Urban Resident,69-79,False,17.13
+767909,Female,40.0,1.42,19.84,Urban Resident,79-89,False,19.84
+763452,Female,48.0,1.52,20.78,Others,69-79,False,20.78
+757006,Female,40.0,1.52,17.31,Farmer,79-89,False,17.31
+736744,Male,82.5,1.72,27.89,Urban Resident,49-59,False,27.89
+818458,Male,58.0,1.6,22.66,Urban Resident,79-89,False,22.66
+784500,Male,60.0,1.7,20.76,Urban Resident,89-110,False,20.76
+755720,Male,65.0,1.62,24.77,Urban Resident,59-69,False,24.77
+865447,Male,49.0,1.6,19.14,Urban Resident,79-89,False,19.14
+772351,Male,66.0,1.6,25.78,Farmer,49-59,False,25.78
+746016,Female,30.0,1.5,,Farmer,69-79,False,13.33
+784421,Male,65.0,1.7,22.49,Urban Resident,79-89,False,22.49
+842942,Female,49.5,1.56,20.34,Urban Resident,79-89,False,20.34
+843892,Female,48.0,1.4,24.49,Urban Resident,89-110,False,24.49
+782956,Male,80.0,1.75,26.12,Urban Resident,79-89,False,26.12
+815717,Female,40.0,1.48,18.26,Urban Resident,79-89,False,18.26
+804484,Female,80.0,1.6,31.25,Urban Resident,69-79,False,31.25
+727734,Female,36.0,1.5,16.0,Farmer,69-79,False,16.0
+765688,Female,36.0,1.5,16.0,Urban Resident,69-79,False,16.0
+736630,Female,40.0,1.62,15.24,Farmer,59-69,False,15.24
+799795,Male,63.0,1.6,24.61,Urban Resident,49-59,False,24.61
+813910,Male,50.0,1.56,20.55,Urban Resident,89-110,False,20.55
+790132,Male,55.0,1.7,19.03,Urban Resident,39-49,False,19.03
+802949,Female,53.0,1.59,20.96,Urban Resident,59-69,False,20.96
+753466,Female,63.0,1.53,26.91,Urban Resident,79-89,False,26.91
+794904,Female,39.0,1.5,17.33,Urban Resident,69-79,False,17.33
+791183,Female,42.0,1.55,17.48,Urban Resident,69-79,False,17.48
+780109,Female,45.0,1.44,21.7,Urban Resident,59-69,False,21.7
+799600,Male,50.0,1.58,20.03,Urban Resident,79-89,False,20.03
+799957,Female,39.0,1.55,16.23,Urban Resident,79-89,False,16.23
+789663,Male,85.0,1.65,31.22,Urban Resident,49-59,False,31.22
+825468,Female,53.0,1.53,22.64,Urban Resident,59-69,False,22.64
+846828,Female,47.5,1.52,20.56,Urban Resident,69-79,False,20.56
+731581,Female,48.0,1.51,21.05,Urban Resident,69-79,False,21.05
+802524,Male,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+762438,Female,49.0,1.4,25.0,Urban Resident,79-89,False,25.0
+820600,Female,38.0,1.5,16.89,Urban Resident,59-69,False,16.89
+786994,Male,55.0,1.56,22.6,Urban Resident,59-69,False,22.6
+774063,Male,65.0,1.7,22.49,Urban Resident,59-69,False,22.49
+757601,Male,74.0,1.68,26.22,Worker,69-79,False,26.22
+792460,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+860035,Female,46.5,1.5,20.67,Urban Resident,79-89,False,20.67
+801155,Male,60.0,1.6,23.44,Urban Resident,69-79,False,23.44
+777237,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+732617,Male,50.0,1.6,19.53,Urban Resident,79-89,False,19.53
+841113,Male,48.0,1.65,17.63,Farmer,79-89,False,17.63
+744424,Female,50.0,1.5,22.22,Urban Resident,79-89,False,22.22
+797397,Female,75.0,1.55,31.22,Urban Resident,79-89,False,31.22
+848903,Female,49.5,1.58,19.83,Urban Resident,79-89,False,19.83
+739217,Female,61.0,1.55,25.39,Others,59-69,False,25.39
+852097,Female,47.0,1.53,20.08,Urban Resident,79-89,False,20.08
+861442,Male,47.5,1.6,18.55,Urban Resident,79-89,False,18.55
+776559,Female,50.0,1.5,22.22,Urban Resident,69-79,False,22.22
+859366,Male,49.0,1.6,19.14,Urban Resident,59-69,False,19.14
+759370,Female,50.0,1.57,20.28,Urban Resident,79-89,False,20.28
+829624,Male,70.0,1.74,23.12,Officer,49-59,False,23.12
+807293,Male,80.0,1.68,28.34,Urban Resident,69-79,False,28.34
+805610,Male,70.0,1.7,24.22,Urban Resident,79-89,False,24.22
+740274,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+729142,Female,41.0,1.5,18.22,Urban Resident,69-79,False,18.22
+733199,Male,43.0,1.68,15.24,Farmer,69-79,False,15.24
+816947,Male,46.5,1.5,20.67,Urban Resident,69-79,False,20.67
+823534,Female,62.0,1.52,26.84,Urban Resident,69-79,False,26.84
+732742,Female,50.0,1.55,20.81,Farmer,39-49,False,20.81
+750447,Male,60.0,1.68,21.26,Urban Resident,79-89,False,21.26
+818185,Female,42.0,1.4,21.43,Urban Resident,79-89,False,21.43
+804209,Female,40.0,1.55,16.65,Urban Resident,89-110,False,16.65
+756045,Female,40.0,1.5,17.78,Urban Resident,69-79,False,17.78
+726701,Male,60.0,1.6,23.44,Urban Resident,79-89,False,23.44
+754589,Female,52.5,1.53,22.43,Urban Resident,69-79,False,22.43
+740689,Female,35.0,1.5,15.56,Others,79-89,False,15.56
+734280,Female,50.0,1.55,20.81,Urban Resident,79-89,False,20.81
+781004,Male,75.0,1.7,25.95,Urban Resident,39-49,False,25.95
+744870,Male,40.0,1.5,17.78,Urban Resident,49-59,False,17.78
+791864,Female,45.0,1.55,18.73,Urban Resident,79-89,False,18.73
