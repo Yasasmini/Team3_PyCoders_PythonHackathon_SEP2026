@@ -140,10 +140,7 @@ def chart_risk_factor(df):
     return pd.DataFrame({"Condition": [], "No": [], "Yes": []})
 
 
-# -------------------------
 # App layout
-# -------------------------
-
 df = load_data()
 
 st.title("❤️ Heart Failure Risk & Discharge Planning Dashboard")
