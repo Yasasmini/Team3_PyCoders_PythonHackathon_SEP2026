@@ -182,7 +182,7 @@ st.sidebar.caption(f"Current cohort: {len(filtered)} patients")
 summary = get_summary(filtered)
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Patients", f"{summary.loc[0, 'Value']:,}")
+col1.metric("Patients", f"{int(summary.loc[0, 'Value']):,}")
 col2.metric("28-day readmission", format_pct(summary.loc[1, 'Value']))
 col3.metric("3-month readmission", format_pct(summary.loc[2, 'Value']))
 col4.metric("6-month readmission", format_pct(summary.loc[3, 'Value']))
@@ -336,4 +336,4 @@ if risk_flags:
 else:
     st.success("The selected cohort does not show a dominant risk profile; continue routine follow-up with targeted review for any flagged patients.")
 
-st.caption("Dashboard built from the cleaned heart-failure dataset for local decision support and monitoring.")
+
