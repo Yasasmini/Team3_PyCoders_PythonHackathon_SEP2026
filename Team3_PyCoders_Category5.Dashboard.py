@@ -227,18 +227,50 @@ st.markdown("---")
 st.subheader("High-risk factor comparison")
 
 risk_df = chart_risk_factor(filtered)
+# if not risk_df.empty:
+#     fig2, ax2 = plt.subplots(figsize=(10, 5))
+#     melted = risk_df.melt(id_vars="Condition", var_name="Group", value_name="Poor outcome rate (%)")
+#     sns.barplot(data=melted, x="Condition", y="Poor outcome rate (%)", hue="Group", palette=["#7ec8e3", "#ff7f7f"], ax=ax2)
+#     ax2.set_title("Poor outcome rate by clinical risk flag")
+#     ax2.set_xlabel("Condition")
+#     ax2.set_ylabel("Poor outcome rate (%)")
+#     ax2.legend(title="Group")
+#     st.pyplot(fig2)
+# else:
+#     st.info("No comparable clinical risk data available for the active filter set.")
 if not risk_df.empty:
-    fig2, ax2 = plt.subplots(figsize=(10, 5))
-    melted = risk_df.melt(id_vars="Condition", var_name="Group", value_name="Poor outcome rate (%)")
-    sns.barplot(data=melted, x="Condition", y="Poor outcome rate (%)", hue="Group", palette=["#7ec8e3", "#ff7f7f"], ax=ax2)
-    ax2.set_title("Poor outcome rate by clinical risk flag")
-    ax2.set_xlabel("Condition")
-    ax2.set_ylabel("Poor outcome rate (%)")
-    ax2.legend(title="Group")
-    st.pyplot(fig2)
-else:
-    st.info("No comparable clinical risk data available for the active filter set.")
 
+    melted = risk_df.melt(
+        id_vars="Condition",
+        var_name="Group",
+        value_name="Poor outcome rate (%)"
+    )
+
+    fig2, ax2 = plt.subplots(figsize=(10, 5))
+
+    sns.barplot(
+        data=melted,
+        x="Condition",
+        y="Poor outcome rate (%)",
+        hue="Group",
+        ax=ax2
+    )
+
+    ax2.set_title("Poor Outcome Rate by Clinical Risk Factor")
+    ax2.set_xlabel("")
+    ax2.set_ylabel("Poor Outcome Rate (%)")
+
+    # Add percentage labels
+    for container in ax2.containers:
+        ax2.bar_label(container, fmt="%.1f%%", padding=3)
+
+    ax2.legend(title="Condition Present")
+
+    plt.tight_layout()
+    st.pyplot(fig2)
+
+else:
+    st.info("No comparable clinical risk data available.")
 st.markdown("---")
 
 left2, right2 = st.columns(2)
