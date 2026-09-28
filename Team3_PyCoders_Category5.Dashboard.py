@@ -182,25 +182,119 @@ st.sidebar.caption(f"Current cohort: {len(filtered)} patients")
 summary = get_summary(filtered)
 
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Patients", f"{int(summary.loc[0, 'Value']):,}")
+col1.metric(" 👥 Patients", f"{int(summary.loc[0, 'Value']):,}")
 col2.metric("28-day readmission", format_pct(summary.loc[1, 'Value']))
 col3.metric("3-month readmission", format_pct(summary.loc[2, 'Value']))
 col4.metric("6-month readmission", format_pct(summary.loc[3, 'Value']))
 
 st.markdown("---")
+# Gender percentage
+if "gender" in filtered.columns and not filtered.empty:
 
+    gender_clean = filtered["gender"].astype(str).str.strip().str.lower()
+
+    male_count = gender_clean.isin(["male", "m"]).sum()
+    female_count = gender_clean.isin(["female", "f"]).sum()
+
+    total_gender = male_count + female_count
+
+    if total_gender > 0:
+        male_pct = (male_count / total_gender) * 100
+        female_pct = (female_count / total_gender) * 100
+    else:
+        male_pct = 0
+        female_pct = 0
+
+    male_col, female_col = st.columns(2)
+
+    male_col.metric(
+        "👨 Male",
+        f"{male_pct:.1f}%",
+        f"{male_count:,} patients"
+    )
+
+    female_col.metric(
+        "👩 Female",
+        f"{female_pct:.1f}%",
+        f"{female_count:,} patients"
+    )
+st.markdown("---")
 left, right = st.columns([1.5, 1])
 with left:
-    st.subheader("Readmission over time")
+    # st.subheader("Readmission over time")
+    # trend = chart_time_trend(filtered)
+    # fig, ax = plt.subplots(figsize=(8, 4))
+    # sns.barplot(data=trend, x="Time", y="Readmission rate (%)", palette="Blues_d", ax=ax)
+    # ax.set_ylabel("Readmission rate (%)")
+    # ax.set_xlabel("Follow-up window")
+    # ax.set_title("Readmission trend")
+    # for p in ax.patches:
+    #     ax.annotate(f"{p.get_height():.1f}%", (p.get_x() + p.get_width() / 2, p.get_height()), ha="center", va="bottom")
+    # st.pyplot(fig)
+    
+    st.subheader("Readmission Over Time")
+
     trend = chart_time_trend(filtered)
-    fig, ax = plt.subplots(figsize=(8, 4))
-    sns.barplot(data=trend, x="Time", y="Readmission rate (%)", palette="Blues_d", ax=ax)
-    ax.set_ylabel("Readmission rate (%)")
-    ax.set_xlabel("Follow-up window")
-    ax.set_title("Readmission trend")
-    for p in ax.patches:
-        ax.annotate(f"{p.get_height():.1f}%", (p.get_x() + p.get_width() / 2, p.get_height()), ha="center", va="bottom")
-    st.pyplot(fig)
+
+    # Smaller figure
+    fig, ax = plt.subplots(figsize=(6, 3.5))
+
+    sns.lineplot(
+        data=trend,
+        x="Time",
+        y="Readmission rate (%)",
+        marker="o",
+        markersize=8,
+        linewidth=2.5,
+        ax=ax
+    )
+
+    # Percentage labels
+    for i, row in trend.reset_index(drop=True).iterrows():
+        ax.annotate(
+            f'{row["Readmission rate (%)"]:.1f}%',
+            (i, row["Readmission rate (%)"]),
+            xytext=(0, 8),
+            textcoords="offset points",
+            ha="center",
+            fontsize=9,
+            fontweight="bold"
+        )
+
+    ax.set_title(
+        "Readmission Trend",
+        fontsize=12,
+        fontweight="bold"
+    )
+
+    ax.set_xlabel("Follow-up Period", fontsize=9)
+    ax.set_ylabel("Readmission Rate (%)", fontsize=9)
+
+    ax.set_ylim(
+        0,
+        trend["Readmission rate (%)"].max() * 1.2
+    )
+
+    ax.tick_params(labelsize=8)
+
+    ax.grid(
+        axis="y",
+        linestyle="--",
+        alpha=0.25
+    )
+
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+
+    plt.tight_layout()
+
+    # IMPORTANT: keeps chart inside column
+    st.pyplot(fig, use_container_width=True)
+
+    plt.close(fig)
+
+
+
 
 with right:
     st.subheader("Key clinical outcomes")
@@ -276,29 +370,72 @@ st.markdown("---")
 left2, right2 = st.columns(2)
 with left2:
     st.subheader("Severity profile")
-    if "nyha_cardiac_function_classification" in filtered.columns:
-        nyha_summary = (
-            filtered["nyha_cardiac_function_classification"]
-            .value_counts()
-            .sort_index()
-            .rename_axis("NYHA class")
-            .reset_index(name="Patients")
+
+    nyha = (
+        filtered["nyha_cardiac_function_classification"]
+        .value_counts()
+        .sort_index()
+    )
+
+    colors = sns.color_palette("dark", len(nyha))
+
+    fig3, ax3 = plt.subplots(figsize=(7, 4))
+
+    for x, y, color in zip(nyha.index, nyha.values, colors):
+
+        # Lollipop line
+        ax3.vlines(
+            x=x,
+            ymin=0,
+            ymax=y,
+            color=color,
+            linewidth=5
         )
-        fig3, ax3 = plt.subplots(figsize=(7, 4))
-        sns.barplot(data=nyha_summary, x="NYHA class", y="Patients", palette="viridis", ax=ax3)
-        ax3.set_title("Patient count by NYHA class")
-        st.pyplot(fig3)
+
+        # Circle
+        ax3.scatter(
+            x,
+            y,
+            color=color,
+            s=220,
+            zorder=3
+        )
+
+        # Patient count
+        ax3.text(
+            x,
+            y + 50,
+            str(y),
+            ha="center",
+            va="bottom",
+            fontweight="bold",
+            fontsize=11
+        )
+
+    ax3.set_title("Patients by NYHA Class")
+    ax3.set_xlabel("NYHA Class")
+    ax3.set_ylabel("Patients")
+    ax3.set_xticks(nyha.index)
+
+    # Extra space for numbers
+    ax3.set_ylim(0, nyha.max() * 1.18)
+
+    plt.tight_layout()
+    st.pyplot(fig3)
+    
 
 with right2:
     st.subheader("Population breakdown")
     if not filtered.empty:
         age_group = filtered["age_category"].value_counts().head(10)
         fig4, ax4 = plt.subplots(figsize=(7, 4))
+        
         sns.barplot(x=age_group.values, y=age_group.index, orient="h", palette="magma", ax=ax4)
         ax4.set_title("Patients by age category")
         ax4.set_xlabel("Patients")
         ax4.set_ylabel("Age group")
         st.pyplot(fig4)
+
 
 st.markdown("---")
 
