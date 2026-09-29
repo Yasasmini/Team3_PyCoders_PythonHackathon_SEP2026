@@ -219,18 +219,118 @@ if "gender" in filtered.columns and not filtered.empty:
         f"{female_count:,} patients"
     )
 st.markdown("---")
+left2, right2 = st.columns(2)
+with left2:
+    st.subheader("Severity profile")
+
+    nyha = (
+        filtered["nyha_cardiac_function_classification"]
+        .value_counts()
+        .sort_index()
+    )
+
+    colors = sns.color_palette("dark", len(nyha))
+
+    fig3, ax3 = plt.subplots(figsize=(7, 4))
+
+    for x, y, color in zip(nyha.index, nyha.values, colors):
+
+        # Lollipop line
+        ax3.vlines(
+            x=x,
+            ymin=0,
+            ymax=y,
+            color=color,
+            linewidth=5
+        )
+
+        # Circle
+        ax3.scatter(
+            x,
+            y,
+            color=color,
+            s=220,
+            zorder=3
+        )
+
+        # Patient count
+        ax3.text(
+            x,
+            y + 50,
+            str(y),
+            ha="center",
+            va="bottom",
+            fontweight="bold",
+            fontsize=11
+        )
+
+    ax3.set_title("Patients by NYHA Class")
+    ax3.set_xlabel("NYHA Class")
+    ax3.set_ylabel("Patients")
+    ax3.set_xticks(nyha.index)
+
+    # Extra space for numbers
+    ax3.set_ylim(0, nyha.max() * 1.18)
+
+    plt.tight_layout()
+    st.pyplot(fig3)
+    
+
+with right2:
+    st.subheader("Population breakdown")
+    if not filtered.empty:
+        age_group = filtered["age_category"].value_counts().head(10)
+        fig4, ax4 = plt.subplots(figsize=(7, 4))
+        
+        sns.barplot(x=age_group.values, y=age_group.index, orient="h", palette="magma", ax=ax4)
+        ax4.set_title("Patients by age category")
+        ax4.set_xlabel("Patients")
+        ax4.set_ylabel("Age group")
+        st.pyplot(fig4)
+
+
+
+
+st.subheader("High-risk factor comparison")
+
+risk_df = chart_risk_factor(filtered)
+if not risk_df.empty:
+
+    melted = risk_df.melt(
+        id_vars="Condition",
+        var_name="Group",
+        value_name="Poor outcome rate (%)"
+    )
+
+    fig2, ax2 = plt.subplots(figsize=(10, 5))
+
+    sns.barplot(
+        data=melted,
+        x="Condition",
+        y="Poor outcome rate (%)",
+        hue="Group",
+        ax=ax2
+    )
+
+    ax2.set_title("Poor Outcome Rate by Clinical Risk Factor")
+    ax2.set_xlabel("")
+    ax2.set_ylabel("Poor Outcome Rate (%)")
+
+    # Add percentage labels
+    for container in ax2.containers:
+        ax2.bar_label(container, fmt="%.1f%%", padding=3)
+
+    ax2.legend(title="Condition Present")
+
+    plt.tight_layout()
+    st.pyplot(fig2)
+
+else:
+    st.info("No comparable clinical risk data available.")
+st.markdown("---")
 left, right = st.columns([1.5, 1])
 with left:
-    # st.subheader("Readmission over time")
-    # trend = chart_time_trend(filtered)
-    # fig, ax = plt.subplots(figsize=(8, 4))
-    # sns.barplot(data=trend, x="Time", y="Readmission rate (%)", palette="Blues_d", ax=ax)
-    # ax.set_ylabel("Readmission rate (%)")
-    # ax.set_xlabel("Follow-up window")
-    # ax.set_title("Readmission trend")
-    # for p in ax.patches:
-    #     ax.annotate(f"{p.get_height():.1f}%", (p.get_x() + p.get_width() / 2, p.get_height()), ha="center", va="bottom")
-    # st.pyplot(fig)
+   
     
     st.subheader("Readmission Over Time")
 
@@ -318,126 +418,7 @@ with right:
 
 st.markdown("---")
 
-st.subheader("High-risk factor comparison")
 
-risk_df = chart_risk_factor(filtered)
-# if not risk_df.empty:
-#     fig2, ax2 = plt.subplots(figsize=(10, 5))
-#     melted = risk_df.melt(id_vars="Condition", var_name="Group", value_name="Poor outcome rate (%)")
-#     sns.barplot(data=melted, x="Condition", y="Poor outcome rate (%)", hue="Group", palette=["#7ec8e3", "#ff7f7f"], ax=ax2)
-#     ax2.set_title("Poor outcome rate by clinical risk flag")
-#     ax2.set_xlabel("Condition")
-#     ax2.set_ylabel("Poor outcome rate (%)")
-#     ax2.legend(title="Group")
-#     st.pyplot(fig2)
-# else:
-#     st.info("No comparable clinical risk data available for the active filter set.")
-if not risk_df.empty:
-
-    melted = risk_df.melt(
-        id_vars="Condition",
-        var_name="Group",
-        value_name="Poor outcome rate (%)"
-    )
-
-    fig2, ax2 = plt.subplots(figsize=(10, 5))
-
-    sns.barplot(
-        data=melted,
-        x="Condition",
-        y="Poor outcome rate (%)",
-        hue="Group",
-        ax=ax2
-    )
-
-    ax2.set_title("Poor Outcome Rate by Clinical Risk Factor")
-    ax2.set_xlabel("")
-    ax2.set_ylabel("Poor Outcome Rate (%)")
-
-    # Add percentage labels
-    for container in ax2.containers:
-        ax2.bar_label(container, fmt="%.1f%%", padding=3)
-
-    ax2.legend(title="Condition Present")
-
-    plt.tight_layout()
-    st.pyplot(fig2)
-
-else:
-    st.info("No comparable clinical risk data available.")
-st.markdown("---")
-
-left2, right2 = st.columns(2)
-with left2:
-    st.subheader("Severity profile")
-
-    nyha = (
-        filtered["nyha_cardiac_function_classification"]
-        .value_counts()
-        .sort_index()
-    )
-
-    colors = sns.color_palette("dark", len(nyha))
-
-    fig3, ax3 = plt.subplots(figsize=(7, 4))
-
-    for x, y, color in zip(nyha.index, nyha.values, colors):
-
-        # Lollipop line
-        ax3.vlines(
-            x=x,
-            ymin=0,
-            ymax=y,
-            color=color,
-            linewidth=5
-        )
-
-        # Circle
-        ax3.scatter(
-            x,
-            y,
-            color=color,
-            s=220,
-            zorder=3
-        )
-
-        # Patient count
-        ax3.text(
-            x,
-            y + 50,
-            str(y),
-            ha="center",
-            va="bottom",
-            fontweight="bold",
-            fontsize=11
-        )
-
-    ax3.set_title("Patients by NYHA Class")
-    ax3.set_xlabel("NYHA Class")
-    ax3.set_ylabel("Patients")
-    ax3.set_xticks(nyha.index)
-
-    # Extra space for numbers
-    ax3.set_ylim(0, nyha.max() * 1.18)
-
-    plt.tight_layout()
-    st.pyplot(fig3)
-    
-
-with right2:
-    st.subheader("Population breakdown")
-    if not filtered.empty:
-        age_group = filtered["age_category"].value_counts().head(10)
-        fig4, ax4 = plt.subplots(figsize=(7, 4))
-        
-        sns.barplot(x=age_group.values, y=age_group.index, orient="h", palette="magma", ax=ax4)
-        ax4.set_title("Patients by age category")
-        ax4.set_xlabel("Patients")
-        ax4.set_ylabel("Age group")
-        st.pyplot(fig4)
-
-
-st.markdown("---")
 
 st.subheader("High-priority patient list")
 priority = filtered.copy()
