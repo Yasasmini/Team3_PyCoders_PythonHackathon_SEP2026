@@ -923,12 +923,7 @@ with right:
 
             f"{summary.loc[5, 'Value']:,}",
 
-            f"{int(
-                (
-                    filtered["risk_band"]
-                    == "Watchlist"
-                ).sum()
-            ):,}"
+            f"{int((filtered['risk_band'] == 'Watchlist').sum()):,}"
         ]
     })
 
