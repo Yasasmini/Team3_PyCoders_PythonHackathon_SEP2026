@@ -5,10 +5,6 @@ import streamlit as st
 import matplotlib.pyplot as plt
 
 sns.set_style("whitegrid")
-
-
-
-
 st.set_page_config(
     page_title="Heart Failure Care Dashboard",
     page_icon="❤️",
@@ -687,6 +683,11 @@ if not risk_df.empty:
         fig,
         use_container_width=True
     )
+    st.markdown(
+    "**Higher poor-outcome rates indicate clinical risk factors that may require closer monitoring and follow-up.**"
+)
+    
+
 
     plt.close(fig)
 
@@ -730,6 +731,11 @@ with left:
         fig,
         use_container_width=True
     )
+  
+
+    st.markdown(
+    "**Readmission rates vary across admission wards and discharge destinations, highlighting groups that may benefit from closer discharge planning and follow-up.'**"
+)
 
     plt.close(fig)
 
@@ -807,6 +813,10 @@ with right:
         fig,
         use_container_width=True
     )
+    st.markdown(
+        "**Most clinical markers show weak correlations with readmission, while 28-day and 6-month readmission show a moderate positive relationship (r = 0.33).**"
+    )
+    
 
     plt.close(fig)
 
@@ -893,6 +903,7 @@ with left:
         fig,
         use_container_width=True
     )
+   
 
     plt.close(fig)
 
